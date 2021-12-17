@@ -3,7 +3,7 @@
 CEFR-ASAG CORPUS
 ================
 
-.. image:: https://img.shields.io/badge/version-1.0.0-blue
+.. image:: https://img.shields.io/badge/version-1.0.1-blue
    :target: https://github.com/anaistack/cefr-asag-corpus/tree/main
    :alt: package version
 
