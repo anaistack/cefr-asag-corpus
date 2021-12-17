@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="18" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If I had 1 million euros, I would depense it in a lot of things.</p>
+                <p>Firstly, I would give 70 000 euros in different associations like &quot;Iles de Paix&quot;, &quot;Action Damien&quot;,... because I know this associations and the work they do and I like them.</p>
+                <p>Then, I would like to travel around the world to meet different people, to discover different lifestyles and a lot of countries and beautiful landscapes. I wouldn't depense a lot in this project.</p>
+                <p>Finally, I would give the rest of the 1 million euros to scientific researches about how to give enough alimentation at all people in the world.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

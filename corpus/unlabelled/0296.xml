@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>THIS IS MY WAY</p>
+                <p>First, I think the best way to help the environment is to raise awareness on the issue. Even if global warming and species exctinctions are scientifically proved. Many human being still do not know what it is and when they do, they do not understand how it is important to us, to the survival of our planet as we know it.</p>
+                <p>Then, when people have information they will have the motivation to change things in their way of life. It is a process which need to be done step by step because it is important to keep this fight personnal and to believe in what you do, and not to do it because you were told to do so.</p>
+                <p>Now we can enlist the many options you have to become an environment fighter. The basics are : to decresease the use of oil-propelled energy (bike, public transportation, short shower, pull-over instead of turning on the  heating), sort the waste, eat lower meat, etc. These are some of the choices you could make in your life to help the environment. They are not enlisted here because the efforts to make is infinite and the implementation in your life your own decision.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

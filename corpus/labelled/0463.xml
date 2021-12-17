@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="65" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Share a memory of a holiday. Where was it, who went, what happened?</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>How will be my life in 10 years. It's difficult to imagine. I can see my life with positive thoughts.I can dream that i shall speak English. I could travel in many countries. I could meet many various culture people.I could perhaps read english books. I love cinema. I prefer original version of movies.I can imagine understand  them; Today it's my goal in my life : to speak English. Later, i could imagine something . To learn an another language or climb a moutain. Why not ? all is possible.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>A2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment">Did this person copy from someone else? A2?</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>A2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

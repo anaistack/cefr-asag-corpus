@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="de"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If I would have one million euros buy a villa in South of France next to the beach with a big swimming pool. Then I would invite  my best  friends there to make a big Party. I would enjoy the sea, the sun, the beach,... I would also buy a yacht to make beautiful trips to places. Of course I would also make al lot of shopping.</p>
+                <p>I would also built luxury stables for my horses at the villa in France. I would organise big jumping events.</p>
+                <p>I woud also make a trip in the United States for some weeks and maybe also in Asia to discover the world.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

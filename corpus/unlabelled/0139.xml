@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="33" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="es"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If I had 1 million euros, firstable I wouldn't tell it to anybody. I would pay all my debts, I would by a new car, and I would gard the rest for the moment. I know how easy is loose money, so, I would think with pacience what is the vest way to keep it, or to gain more. Try to never would need work for money. I know a rich man, and one day he told me: the most difficult is to gain your firs million. It means that; if you have money, you need to think how produce much money. That's all.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Most people agree to say that studying abroad plays a important role in students' education. As far as I am concerned, I quite agree with that point of view.</p>
+                <p>I think that students living in another country far from their family during one year or more helps them to become independant and much more mature. Indeed, they learn to face difficulties and handle it alone. It is for me the best way to become a responsible adult.</p>
+                <p>In my opinion, studying abroad is also a chance to discover new cultures and new ways of living. It allows people to open their minds and to learn a lot about the world.</p>
+                <p>In conclusion, studying abroad is a good way to understand the society.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>With the new technologies there is new possibilities to hold relationships. To chat with friends or to post photo's on internet at the view of friends is now totally common. Every &quot;friends&quot; on your Facebook is aware of your activities, where you was located and with which people. The social network is an open window on your private life.</p>
+                <p/>
+                <p>We can try to protect the confidentiality of our information's but we are not sure that data ar protected and private.</p>
+                <p/>
+                <p>The relationship is now easier, we can send a message or a photo quickly and this is free. More and more people use internet and social networks to communicate, to maintain relations. We are currently more keeping in touch than before, a lot of people need to check daily one's Facebbok, Instagram, Snapchat,...</p>
+                <p/>
+                <p>Furthermore, the posting of information can be dangerous for your private life and we don't need to show all his hobbies on internet.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment">some b2 vocab</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="27" role="participant" sex="F">
+                    <education type="graduate-doctorate"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The environment, our contemporary green gold, is key for human life, and after many years of drawing resources, the mankind has realised it is really necessary to stop this massacre until it becomes irremediable. In order to live on a sustainable manner without coming back to the Prehsitoric times, I would carry on building off-shore and inland wind turbines, multiplying solar panels on roofs and on parkings to load electric car. I would also encourage inhabitants from developed countries first, as they are more disposed financially to make efforts, to compost and plat trees in their garden and to sort out their wastes more consciously. As farmming has a big impact on our planet, it is an emergency to get people conscious about the need they decrease thei meat consumption. Though we already have observed changes, I would encourage financially companies, universities, schools that promote the right attitude and invest in and implement efficient autonomous facilities and the use of ecological products. Finally the mankind have the capacity to live sustainably but do ou politicians and lobbies be ready to move in a radically manner from a polluting to a greener free-market economy</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">b1? many vocab errors, but b2 text structure</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

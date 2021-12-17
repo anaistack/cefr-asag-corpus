@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hey every body!</p>
+                <p>Monday is my sister's baby shower! I'm so exciting!!</p>
+                <p>She does'nt kwon yet but I'll cook the best cake of the world for her.</p>
+                <p>Everything is not yet ready. But  hoppefuly my friend {name} comes tomorow to help me. Yesterday, when I was chossing the napkins he ate some cakes. Cake's event !!! I was a littile bit upset. So now we had to also make grocery before Monday.</p>
+                <p>I'll buy a beautiful teddy bear because when my sister was young she loved it!</p>
+                <p>I can't wait! I'm going to downton now to look for a dress. Im' waitting for {name}.</p>
+                <p>See you sson</p>
+                <p>I'll tell you how the event was ASAP.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

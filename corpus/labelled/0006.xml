@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="17" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                        <langKnown level="native" tag="nl"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What are your daily habits? What time do you get up, etc.?</p>
+                <note type="word-limit">(at least 30 words)</note>
+                <label type="level">
+                    <span>A1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I get up at 7 am on a weekly day, i go to my lessons. And when i come back at home in the evening, ik study a little bit, watch tv, play video games and then i go to sleep at 11 pm.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>A1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>A2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>A1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>A1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

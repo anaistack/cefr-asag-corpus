@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="55" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the best book you've ever read and why?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I don't remember the title of the best book I've ever read but I know that it's writed by a Spanish men and translated in French. It was a story about an ancient and mysterious book. I liked it because I learned about Spain one hundred years ago, about Spanish history and there was suspense. You always wanted to read and read more to know what's happened  in the story. You couldn't imagine the end of the story but it wasn't a detective story with murder, police, ... I like to read but I like it very much when I can't stop to read a book.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

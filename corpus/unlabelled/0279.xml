@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Yes I think that it should be a compulsory part of education.</p>
+                <p>First, I think that when we discover a new country that offers a better education, it can enable us to improve our skills and then I think that it can be a good way to find a job that we're looking for.</p>
+                <p>Secondly, I'd like to speak about my personal experience abroad that is a good example to show that studying abroad is a good way to learn. I had the opportunity to study abroad and it was a really good experience that I won't forget. I had to deal with another culture, another language that I wasn't used to. It really opened my mind, I also met a lot of people from all around the world. Studying abroad is a real asset because we discover some things about ourselves that we wouldn't have discovered if we had stayed in our country. In fact, I learn how to be more independent, self-confident and that the world has to offer us a lot of great opportunities of work.</p>
+                <p>To conclude, I think that now and especially because of the globalization, it's important to develop our talent abroad. The world and particularly universities of the world can offer us a good opportunity to learn differently than our Belgian system of education. In my opinion, studying abroad can help us to have a positive impact on the economy and on the cultural diversity.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="57" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>In a world where tthe countries no longe have frontiers, it seems attractive to travel and why not study abroad ?</p>
+                <p/>
+                <p>As far as education is concerned, I am rather conservative.  For years, the governments in each country all over the world has tried to improbe the ways of teaching.</p>
+                <p/>
+                <p>Of course, il may be interesting to take different opinions and proposals into account, but as far as I am concerned, too much information kill information.</p>
+                <p/>
+                <p>Moreover, if too many individual initiatives aiming to improve existing dispositions which were once successful and efficient, it could in a rather near future destroy the basis of our past.</p>
+                <p/>
+                <p>How often don't we refer to Egypt in amazing attitudes concerning the discoveries and beauties ?</p>
+                <p/>
+                <p>Today is based on yesterday.  Each country, with or without frontiers, needs to conserve its identity and remain curious to learn from the others.  But the family cells must be protected to grow with the foreign countries in its own land.</p>
+                <p/>
+                <p>Live together is wonderful but let's keep our school sweet school at home!</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">Good vocab but too many mistakes</note>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment">B2 connectors, but failed verb and sentence structures and wrong vocab obscure logic.</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

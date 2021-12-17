@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="17" role="participant" sex="F">
+                    <education type="primary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>At first, we can consider social network as an easy way to keep in touch with other people (for instance : friends from childhood, close ones living far away...), as well as a manner to discover new people &quot;by chance&quot; on the internet enabling us to widen our circles.</p>
+                <p>We could then conclude that social network has positive impacts on relationships.</p>
+                <p/>
+                <p>However, we can easily observe in our daily lives that people tend to lock themselves more and more in their house to communicate only by messages through internet which reduces the frequency of real conversations &quot;face-to-face&quot;.</p>
+                <p/>
+                <p>Besides, there's also the persecution problem which happens a lot more often than we all think and which has already caused deaths of lots of teenagers.</p>
+                <p>.</p>
+                <p>In one word, I believe that social networks could be beneficial for relationships with some limits. Indeed what I fear the most is the loss of human contact. Using social networks with moderation shouldn't represent any problems. The last thing to keep in mind whatever we do it is :&quot; My liberty ends when others' starts&quot;.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">B1 syntax errors</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

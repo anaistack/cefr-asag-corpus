@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Social networks : destroyer or potitif factor on relationships ?</p>
+                <p/>
+                <p/>
+                <p>On one hand, I strongly believe that social networks can have a negative impact on relationships because it keeps away real link between people. I need to see my friends face to face to</p>
+                <p/>
+                <p>Internet can not remplace a genuine relation between friends. I do not trust in e-relation as it sounds fake. Social networks are not the real life, not natural, not spontaneous.</p>
+                <p/>
+                <p>On the other hand, social networks can be usefull to keep in touch with everyone you desire to linked to. Time flight and we do not always find the time to meet up with friends. Social networks are really usefull to have news, see pictures, talk to friends while you can not see them face to face.</p>
+                <p/>
+                <p>To conclude, I trust that social networks have either negative and positive impact on relationships.Using it with moderation and not as the only way to maintain or create a connection.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment">Some b2 vocab, logic</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

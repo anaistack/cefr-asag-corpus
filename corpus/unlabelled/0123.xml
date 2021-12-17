@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the best book you've ever read and why?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The best book I've ever read is the seventh book of the Harry Potter serie. I love the entire serie of book, I really love it, even the movies but I prefer the books. The seventh book has always caught me, I've read it several times already, proof that I really appreciate it. I really love the story, and what's happening in this book. It's the end of the whole story, we understand several things we didn't really understand in the previous books. But I can't really explain why I'm so in love with this book, it's kinda weird. I've always been fascinated by the story, the characters, their personality. What happens in the story is really catching, it's never boring or anything. There is always something happening. I really love the way the author wrote this book, it's catching you from the very first page. I could read it several more times I think.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

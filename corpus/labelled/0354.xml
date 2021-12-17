@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="18" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                        <langKnown level="native" tag="de"/>
+                        <langKnown level="native" tag="lb"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>In my opinion, it should be a part of education, since it's a great experience for a student, especially those who aren't able to go abroad, mostly due to financial reasons.</p>
+                <p/>
+                <p>It is important to travel around the world, to be able to see all the different cultures, to understand that we all have different lifestyles and that we have to learn new things from others.</p>
+                <p>How are we supposed to learn if we don't move and see different things ? We need to be confronted with other people, different ones, with their own point of view, so that we can increase our knowledge.</p>
+                <p/>
+                <p>Traveling is a wonderful experience that can help us to become more responsible for our self and for the world in general, we don't only learn new things about other cultures and their livings, but we also learn who we truly are and what we want for the future. And that's one of the most difficult and important decision a young student has to make.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment">B2?</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

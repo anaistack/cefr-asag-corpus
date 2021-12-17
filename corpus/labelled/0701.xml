@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="26" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="de"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Yes of course they are ppl after all.</p>
+                <p>The moment you step into a public space you still have a right to privacy and who gets to decide when you are in the public eye and when not?  Being a worldwide known celebrity puts you in the public eye but just being well known in your village even if it's small, still affects your life in similar ways.  It's not up to other ppl to decide if your private life is for consumption and entertainment, that should always be under your own control and stay your own choice.</p>
+                <p>Most times those want to get private information about ppl in the public eye don't have any other motivation for it aside from being bored.  If something requires further investigation(in the case of a crime for example) that should be restricted to qualifiied ppl.  The wide majority would just do harm playing investigator themselves.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment">Assume that ppl is an idiosyncratic spelling. Punctuation B2. Vocab, logic C2.</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

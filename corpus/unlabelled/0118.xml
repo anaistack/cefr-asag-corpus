@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hi dude,</p>
+                <p>At first, I would like to thank you for inviting me ! It's such a pleasure for me to participate at your 40 years birthday.</p>
+                <p>I would like to help you for the organization of this little party, and so, I can bring two barrels of 50 liters of beer. As you nmight know it, I work as a technician in a famous Belgian brewery and it's easy for me to bring you beer.</p>
+                <p>Also, I can come earlier to help you prepare everything you need for the party.</p>
+                <p>Finally, if you really need it, I can print the invitation's papers with the printer of the work.</p>
+                <p>See you soon homie,</p>
+                <p>your very best friend {name}</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="73" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I attended a football match beetween real madrid and chelsea.</p>
+                <p>These competitors are famous, and one of them could be the best</p>
+                <p>in the word.</p>
+                <p>During the first game, the two teams were equal, half of the time</p>
+                <p>real madrid was very offensive, then it was chelsea.</p>
+                <p>At the start of the second game, it was the same, some times</p>
+                <p>chelsea was very offensive, the it was the turn of real madrid.</p>
+                <p>The two teams were very excellent, and it was impossible to choose</p>
+                <p>the better. Each goal keeper was busy to stop the balls, each player did his best.   ,,,, but the score was always the same, zero/zero,</p>
+                <p>no difference at all, the english public was enthousiastic, the spanish</p>
+                <p>public was the same;</p>
+                <p>it was fantastic to attend a match beetween two excellent teams,</p>
+                <p>It was impossible to say and to choose which team is the best,</p>
+                <p>Finally  each one was a champion for two reasons, excellent competitor</p>
+                <p>and each player was fair, it was a fair play game beetween two</p>
+                <p>champion competitors</p>
+            </div>
+        </body>
+    </text>
+</TEI>

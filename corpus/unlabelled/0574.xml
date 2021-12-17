@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="44" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I would finish to renovate my house. I would make a gift of an horse  to my daughters. I would visit my turkish friends on their country and my canadian friends too. I think there are my main firstly spending.</p>
+                <p>With the rest of money, I would place some of them at the bank and I would organize holyday with my family and also my brothers and their family . Perhaps, I would organize a big feast with all members of my family (uncles, aunts, cousins, etc) and another feast with all my friends.</p>
+                <p>If my  husband can stop to work during one year, we'll visit many foreign countries. I would like to discover Perou, Bolivia and Sry Lanka.</p>
+                <p>I would buy a building and I would create a childcare center and a &quot; homework school&quot; that means a center to take care of children after school. The children make their homework and they learn singing, dancing, etc.</p>
+                <p>I would improve my lifestyle, I would have a very quiet life and I would have more time with my family. I would help some people to have a good level of life and I would offer my experience to help them.</p>
+                <p>That's it!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

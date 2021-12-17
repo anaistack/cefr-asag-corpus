@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="29" role="participant" sex="M">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The studies in Catholique University of Louvain are so expensives.so, it's more expensives for the international student.</p>
+                <p>in fact,the tuitions fees for the international students are 5 time more expensives than the basic tuition fess(minerval).</p>
+                <p>according to that,many internationals students have a dificulties to finance thier studies and pay the accommodation fees.</p>
+                <p>so,if i had 1 millions euros,i would sittle down an organisation to come in help with some of them who have a good average at school,and help them to pay a part of thier accommodation fees.</p>
+                <p>normaly,1 million euros it's not enough to solve all the problem but at least for one or two years,it could be a good hepl for them.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

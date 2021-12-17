@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I've always thought that the way we stalk actors, models and even celebrities we don't even know why we do know them, like Kim K, is one of the creepiest hobbies of the human kind.</p>
+                <p>There is strictly no reason why we should know Orlando Bloom's first baby's name, or what did Jennifer Anniston ate yesterday, ...</p>
+                <p>So yes, to me, they definitly should have a right to privacy because it can drive you crazy to be constantly followed by paparazzis and fans, every step you take is watched by someone, every mistake you do is recorded. That's a terrible life.</p>
+                <p>But we can say that, in a way,  the only reason why they still live in the public eye, why they're still celebrities, is because of the huge work of journalists and admirors... How would they exist to us if no one make them famous by talking about them? That's the exact mind-tricking issue. We don't even realise anymore they're a part of our lifes and we know them better than we think.</p>
+                <p>For example, Leonardo Di Caprio. Let's imagine I saw only one of his movies, and I don't particuliary watch TV so I don't hear a lot about him but I'm on Facebook; I'm still attacked by funny pictures, web articles, informations about him that I don't especially want to know. At the end of one hour of Facebook, I already know that he won his first Oscar, that he divorced like 5 times, that he's actually on a boat with some gorgeous model and that he loves coffee.</p>
+                <p>It's like advertising; you can barrely escape from it.</p>
+                <p>Now there's the part when they know that they're recorded, that they choose to stay in the light instead of the shadows, because that's their best chance to earn more and more money, being chosen because of their celebrity for movies and stuffs...</p>
+                <p>So the real question is: do they claim a right to privacy? That's up to them.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment">c2 vocab and structures</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

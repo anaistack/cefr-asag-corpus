@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="18" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>This Saturday, I've attended to the 20th Durbuy Rock Festival in the lovely village of Bomal sur Ourthe (Belgium). This festival is dedicated to rock and metal music such as death metal, folk metal, black metal, ... and many others ! Despite of the fact that this event is more concerned by extreme metal, what I've found interesting is that there was many bands of other types, and so everybody could be happy !</p>
+                <p>This festival takes a week-end, from friday evening to sunday morning.</p>
+                <p>Personnaly, I've decided to reach the festival for the Saturday. In my opinion, it has a great level for the price asked (40 euros per day, 60 euros for 2 days and the camping). Prices of beer and food are really democratic too for an event of this type. The camping seems to be clean and respectuous of the environment. Too, there's canoe-kayak balads in front of the site. Finally, I have to say that, for a little festival like that, I've found that there was a great ambiance and a nice feeling of fraternity and family ! Many parents came with their childrens and old people where there too.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I think it's more important to have an enjoyable job. To make money is also important but it's not a way to happiness. I prefer to be happy by enojoying my job. Every morning, I wake up and, if I like my job, I'll be happy. If I work only to make money and to have more and more money, the wake up will be difficult and the life become without sense. But being too poor is not a solution. Sometimes we see some artists who don't have any money and become homeless. I don't want to become like that. I think everyone have to find the right mesure between earning money and having a fun or enjoyable job. Job isn't all the time fun. People talk about 'bore out' phenomenon. I don't agree with that. A job doesn't have to be interesting. The first fonction is to earn money. If I like my job, it's better but it's not an obligation.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

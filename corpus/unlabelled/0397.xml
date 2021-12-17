@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Social networks have a huge impact on our relationships. It allows us to share pictures and videos with our friends as well as stay in touch with them. It gives us the opportunity to meet new people or find friends we did not see for a long time. Moreover, the internet helps people from different countries to comunicate and to see each other.</p>
+                <p>On the ohter hand, the internet has it's downsides. People losing contact with the real world, everything becomes virtual and people isolate theirselves in a digital world. Instead of gathering and connecting people together it pull them apart.We become so addicted to our smartphone and all this technology that we forget to live in the real world.</p>
+                <p>To conclude, the internet has given us son many opportunites of sharing and communicating with each other but this technology isolated some of us in a virtual world.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

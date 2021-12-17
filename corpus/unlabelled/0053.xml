@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="18" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You are invited to a friend's birthday. You respond thanking him/her. Suggest some different ways that you can help him/her.</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hello, I recieved your invitation.</p>
+                <p>I'm very happy to be guest and than I would like  to help you. If you want, I can come earlier to organise the party. I can help you to prepare the cocktails, the cake , the place.</p>
+                <p>If you must to do shopping , send to me the list and I will go.</p>
+                <p>Don't hesitate if you need help.</p>
+                <p>Bye</p>
+                <p>{name}.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

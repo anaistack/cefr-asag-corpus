@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="60" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Share a memory of a holiday. Where was it, who went, what happened?</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>In the month of September, it was my friend's birthday, she was 60 years old. She doesn't want a special feast, then we decided to make a court trip, 3 days in Tyrol, at Lermoos, she and me and the two husbands. We have choiced a typical Hotel, a chalet in hood with vieuw on the mountain. The food was delicious. We have made an excursion in Garmich Partenkirchen to see the spring-board for ski jumping. It was famous. We also went to the top of the Mount Zugspitze with the cable. The vieuw was splendid. We have also visited the Linderhof castle. It was to short, but we have had many pleasure.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>A2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>A2</span>
+                    <note type="comment">Some B1 vocab</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>A2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

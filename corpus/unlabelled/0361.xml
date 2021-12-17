@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                        <langKnown level="native" tag="pt"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Nowadays the impact of social networks on our relations are very huge. We are always connected with our mobile phone with the 3G/4G. Who can go drink a beer with friends during 3 hours and never check his phone? A few of people can do that. We are connected 24hours a day and it affect the relationships between peoples. We have two kinds of relationships, first with the true &quot;friends&quot;, second with &quot; Social networks friends&quot;. On social network we can have 300 friends that we have never see them, we can easily met a girlfriend and it's easier. We don't have the stress, because we are behind a screen and we are safer like that. Nobody can judge us when we talk on a social. For people that have afraid it&quot;s a good thing. But it change completely all the link between the population.</p>
+                <p>For me it's a bad thing, the pleasure of meeting a person it's hear her a voice, her laugh, to see when she smile and not only a lol or a &quot;:)&quot;.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

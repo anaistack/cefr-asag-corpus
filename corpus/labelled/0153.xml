@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>&quot;Brassicole the 16th of March&quot;</p>
+                <p>On the 16th and 17th of Marchn there was an event organised on the ULB campus, a university of Brussels.</p>
+                <p>My friends asked me whether I wanted to join them to have some free time over there and to have a drink, I decided to meet them up right there even if I didn't want to spend so much money.</p>
+                <p>As I'm working in a delivery restaurant, it occurs that some generous customers give us, me and my colleagues, some tips, so I wouldn't really spend my own money and I could, kind of, enjoy for free.</p>
+                <p>I picked a friend up to reach the others in Brussels and I parked my car in the Franklin Roosevelt Avenue without paying attention where I was parked.</p>
+                <p>We've had a great moment over there and I didn't drink so much as I had to drive to go back home.</p>
+                <p>At 11pm, we were about to leave and some friends grabbed us to have a last drink before ending the night, therefore it was 11.30pm when we were on the way to the Franklin Roosevelt Avenue.</p>
+                <p>We arrived on the place I was parked but I couldn't see my car anymore, I have been looking for it for a while without any result.</p>
+                <p>So I called the number of the breakkdown service of Brussels and they told me my car wasn't parked at the right place and I had to go and pay a certain amount to get it back.</p>
+                <p>I didn't know how I was going to go there to pick it up and how to get home firstly, the only thing I knew was that my tips wouldn't be enough to pay the tow truck which had towed away my car....</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">B2 vocab, B1 preposition and tense errors</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

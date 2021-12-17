@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="18" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the best book you've ever read and why?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>One of the best books I have ever read, was Harry Potter. Al the seven books are amazing, I still read them sometimes.</p>
+                <p>I think the autor of Harry Potter has created a fantastic new world, her imagination is incredible. These stories are a great way to relax, and put your problems away for a moment.</p>
+                <p>When I was little, my mom read a chapter every night for me and my brothers. This books are also something nostalgiq, and I don't think I am the only person who sees the stories of Harry Potter as a part of their childhood.</p>
+                <p>But the amazing thing is that these books are also for adults, I think their is no age for them.</p>
+                <p>Harry Potter will stay an important story for the next generations, it has become a part of our culture.</p>
+                <p>This is why Harry Potter is one of my favorite books, and I don't think I am the only person that loves it.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

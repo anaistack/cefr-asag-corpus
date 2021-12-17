@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I don't think an exchange should be compulsory. Some people are just not interested in going abroad. They feel good in belgium, they don't want or they are scared to go abroad, or some don't have the mooney to do so, even with scolarship. Some are afraid to be away from their lover(s) too. Of course it's a wonderful experience and it's great that we have the opportunity to do it. Maybe it'll even better if the process that is necessary to follow to go on exchange be better organised. I personnally feel aggrieved, comparing to other students, by a misinformation. Not a single person in the organisation did anything to correct that wrong information even if they nearly all knew. Anyway, I don't think it should be compulsory. It should be thought-out to improve the procedure every year. And we could have better language courses and more level-based division of group class (maybe interfaculty too ?). As well as a wider choice of languages in our basic BAC program, as they have in ULB.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

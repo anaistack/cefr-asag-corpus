@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Last night i went to an event called &quot;Spring Tech Edition&quot; organised by the Kot &amp;amp; Mix which rassembled many techno Dj's.</p>
+                <p>The price was as low as 3 euros even though they had booked some pretty famous artists.</p>
+                <p>Let me tell you, the music was so great that i found it hard to even go out for a minute to get some fresh air. The sound quality was flawless, there were great visuals, the place was nice and overall, everything was well organised.</p>
+                <p>Unfortunately, there was not as many people as the Kot &amp;amp; Mix crew predicted, my guess is that the bad weather was a turn off for some of them. Nonetheless i'm sure everyone, from the dj's to the people dancing had a great time there.</p>
+                <p>I do hope that the Kot &amp;amp; Mix crew planned to throw more parties like this one because it's a great step back from the mainstream scene and a way to enjoy lesser known artist's music.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

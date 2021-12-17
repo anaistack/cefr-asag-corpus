@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="52" role="participant" sex="M">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I think that people living in the public eye have the same right to privacy, providing they really want it.</p>
+                <p>There are rules and laws to protect their privacy but most of them have, in the first times, more adavntages to be well known and uses the media for their own usage. If they do so, its more difficult to ask, later, for more privacy because the journalists and the public is used to see them in the media. Nevertheless, there are many well known people who keep a strong distance between their public and their private life and their wish is usually respected by the paparazzi.</p>
+                <p>The problem, nowedays, is that people are very narcissic and thing the only way to exist is to be present in the media, or the internet; while the correct way to exist is to be present in the real society.</p>
+                <p>The media is something very transient where you can make the buzz one day and being forgotten the day after. This si not the real life, despite of the 'telereality' name given to some of those TV shows.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

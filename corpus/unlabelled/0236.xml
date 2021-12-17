@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the best book you've ever read and why?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I read a lot of good books and I don't know which one is the best, but I remember that when I was sixteen, my favourite book was &quot;Les chroniques du monde émergé&quot;. That's a fantastic world with a struggle of power. A tyran has the power on a big territory and wants to kill everyone to late a better world growing after. The main character is a girl, not totally human, who wants to be a figther on a dragon. This book is really well written and maked me feel the emotions. It's a strong story, where the main thematics are develloped, like love, death, determination, war, pain...  It's not a shame for me to say that I cried, it's the oppisite because it proves how intensive the book is. What I like in a book is the fact that the author tells us his vision of the world throug a beautifull story, and this book do it very well, there is a true reflexion and a story from which we can't go out.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="31" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Humans, like all the other animals, need to eat to live. Indeed, nutriment intake is the main source of energy for our bodies and therefore one of the most important aspect of our health. In fact, one can live without exercices, one can live without sun (albeit indirectly humans need sunlight), or one can even live without social life or intellectual activity.</p>
+                <p/>
+                <p>Science shows us that to fulfill our bodily needs, we need certain amounts of nutrients; vitamins, cereals, amino acids, fats and minerals among others. It is even more the case for certain category of people, namely sportives, physically active adults, children, teenagers, pregnant women and to a different extent elderly people.</p>
+                <p/>
+                <p>A balanced diet is therefore very important for an optimal health. Too much fat, and it can highly increase the risk of several illness, such as cancers or obesity. Not enough fats on the other hand will cause problems to the nervous system. Amino acids are needed for our body to create proteins, which will then be used to fuel our muscular tissues. Exemple are numerous, but how do nowadays sedentary humans cope with these needs?</p>
+                <p/>
+                <p>A lot of sendentary societies find themselves with several health problems due to several factors of our modern post-industrial society. Dietary wise, there are many factors but let's talk about one of the main one: overconsumption of animal-based nutrients.</p>
+                <p/>
+                <p>The modernization of our agricultural method has made production of meat and dairy products much easier and has made the price of these products much cheaper in many developped countries.</p>
+                <p/>
+                <p>Despite of the efforts of the agro-industrial lobbies, most animal products have shown to be harmfull for the human physiology, especially when consummed in big quantities, which is the case is many countries, like China, USA and EU countries to name a few.</p>
+                <p/>
+                <p>Most meats and fishes provide us with significant and unnecessary amount of bad cholesterol for instance, or when consumming more than a few hundred grams of meat per week, give us amount of proteins exceeding highly our needs. But in meat consumption, red meat is definitly the most dangerous product and has been classified recently as a cancerogenous product by health authorities. Red meat intake increase the risks of heart problems or digestive systems failures and cancers.</p>
+                <p/>
+                <p>To go on the positive side, societies with little animal products consumption show signs of better health and longer lives, as it can be seen in some part of China or India where meat consumption is rare. Vegetarian and vegan diets have also shown their proves for physically actives and non actives people as a very suitable dietary option.</p>
+                <p/>
+                <p>Recently, the ADA (American Dietary Association) has shown vegetarianism and veganism as very possible diets for a healthier life.</p>
+                <p/>
+                <p>If one decide to carry on eating meat on a regular basis, several health specialists recommend eating meat up to 3 times a week maximum, with amounts of meat or fishs in these meals not being higher then 100g. Researchs show that leguminous plants such as beans, peas and soy would be much more efficients source of amino acids, if mixed properly with adapted grains (such as rice with lentils, wheat with peas, etc.).</p>
+                <p/>
+                <p>These news are now wide spread amongst developped countries and we can assume that in the next few decades, it will be harder for the agro-industrial lobbies to make their propaganda so succesfull.</p>
+                <p/>
+                <p>{initial}. {name}</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment">C1 structures b2 vocab and syntax errors C2 vocab in places</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment">Fluent, clearly structured text.  Plurals missing; uncountable nouns made countable;  C2 level text if listened to.</note>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

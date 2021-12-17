@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Some people argue that a balanced diet is the most important factor for a healthy life. I believe it's mostly true to say that, nevertheless I don't think the factors can be organised to least important to most important.</p>
+                <p/>
+                <p>First of all, it is very important to eat healthy, because your body needs different kind of nutrients that cannot be find in junk food. &quot;You are what you eat&quot;, goes the saying.</p>
+                <p/>
+                <p>Secondly, it mainly depends on the quality of each factor. What do you call a balanced diet? Does it need to have vegetables and meat, is it opposed to fat and fast foods or does it need a bit of these?</p>
+                <p/>
+                <p>Then, factors tend to be correlated with one another. If you have a healthy diet, it's probably because you care about your well-being, than you probably work out and sleep correctly. If these factors are correlated it's hard to say whether one or the other is more important.</p>
+                <p/>
+                <p>To conclude, a balanced diet is something subjective, some people may think eating junk food once a week may be fine while others find it way too much. How to measure what impacts your health the most, if all the factors are correlated, it's a tough question and very subjective in my opinion.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment">I hesitated between B2/C1</note>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>In order to take a stance on that statement, it is necessary to give a more accurate definition of the word &quot;privacy&quot;. According to me, the right to privacy relates to the possibility, not of hiding some of our actions, but to be able to live without having  judging eye following us in our thoughts and deeds.</p>
+                <p/>
+                <p>With that in mind, it can possibly be stated that privacy is a necessary condition for freedom. It is indeed very unlikely to feel totally free while knowing everyone is watching. Consequently, I think this right has to be granted to every single human being, even to those whose lives are relentlessly exposed to the public.</p>
+                <p/>
+                <p>Furthermore, I think popular people should be able to decide wheter they some bits of their lives to be made public or not. In our communication-based society where scandals are a very profitable resource, it is of course more and more difficult for those people to keep the most private areas of their life away from greedy journalists looking for their next juicy headlines.Therefore, I think some ethical charter of journalism must be set up to prevent those people to have their lives outrageously exposed and (mis)judged by the public.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment">One C1 error prevent from</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

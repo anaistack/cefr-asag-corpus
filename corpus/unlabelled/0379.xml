@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Social networks have become a huge part in people's lives and are widespread. For example, one seventh of the population on earth is on Facebook only. People carry their social networks accounts in their pockets which enable them to access them at any time. Therefore, they have an impact on their users.</p>
+                <p>This impact can be invisible. Indeed, users aren't always aware of it. They don't see that they slowly develop their virtual life : adding friends, photos, informations about themselves. Then, they have to edit those informations, post more photos, share more. Instead of sharing their experiences with their friends next time they gather, they do it instantly. That is one of the plus side of social networks, everythings goes faster : we can reach our firends, talk to them one by one or ten by ten even, we can organise events, share articles, news, videos ...  Knowledge about you, your friends and familiy goes faster. You can also keep in touch with people physically far away from you. Social networks vanish the limits that distance had etablished.Unfortunatly, this can lead to people only developping their virtual life and neglecting their real life.</p>
+                <p>Social networks can have much bigger impacts. People can become famous by spreding their talents through them but others can also use them to harm people they now in real life on a more public place.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

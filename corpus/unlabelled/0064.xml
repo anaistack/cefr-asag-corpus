@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Share a memory of a holiday. Where was it, who went, what happened…?</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Three years ago, I travelled with my friends's group in Easthern Europe. More precisely, in Romenia, Hungaria and Serbia.</p>
+                <p>First, we arrived in Belgrad which is the capital city of Serbia. It's a strange city... we didn't feel really safe there. Moreover, there were some buildings destroyed by the war yet. But, we had good times.</p>
+                <p>Next, we had taken the train to a city in Romenia before to take an other train that take us to a small village. There, we helped poeple and farmers during one week. It was good because we met people and it's always nice to help when we can.</p>
+                <p>Finally, we went to Budapest that is one of the better cities that I saw in my life. It's a wonderful city. It was a gread travel for everyone in my friends's group.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

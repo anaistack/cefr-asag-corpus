@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="28" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>We all have a right to privacy, people in the public eye aren't an exception, but the extent of their privacy depends on the function they have. There are limits to privacy for people in the public eye, nonetheless. A politician should have the right to go on holiday and live with his or her family without people snooping on them, but must remain open when excercising their public functions. Celebrities should be allowed to be left alone as long as they attempt to remain anonymous, but they waiver that right when they try and use their influence as a public figure to gain specific advantages. Notorious Criminals in the public eye should also expect to lose alot of their rights to privacy- personal rights end when the rights of others are compromised.</p>
+                <p/>
+                <p>It is therefore very important to define what constitutes &quot;the public eye&quot; but also what constitutes &quot;privacy&quot;.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment">native errors</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

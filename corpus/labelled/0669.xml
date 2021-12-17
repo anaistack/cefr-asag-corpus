@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="25" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Social Media are made to bring people closer. MySpace, MSN Messenger at the time, Facebook, Twitter or WhatsApp today were all designed to share your daily life and passions with your friends, fictional or not. But fifteen years after the upcoming of these networks, one has to admit: these actually brought us appart. In a couple, rare are those who don't go to sleep with their smartphone, while their loved ones are lying down next to them, doing the same routine. Checking facebook, browsing on Twitter, liking on Instagram (Google+ is just irrelevant). Those ritual moves are killing daily relationships and give the false impression to be closer of your so-called friends.So here is my opinion: social networks are the new opium of the people, as they tear people appart while giving the impression to be closer of fake, unreliable friends. People should care about their direct circle, spouse/husband, kids, friends, enjoying little moments for themselves instead of thinking of a good filter to pimp up their photographs.</p>
+                <p>In a couple of month, I'll be leaving Belgium for the other end of the planet. Literally. And for quite a while. Since I announced my trip to my family, good friends and colleagues, I came to realize that the time I spend with them is a thousand time more precious than the lost minutes I spent on Social Media. I really stroke me, lately. How I can lose time checking the fake, staged life of people I barely know on Facebook or the storms in a teacup happening on Twitter... I'd be better off my smarthphone and good wifi in the outback, I'm sure of that.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

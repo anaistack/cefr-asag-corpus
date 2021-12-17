@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="25" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Do social networks have an impact on relationships? Yes, they do. Another question would be to define the kind of relationships which are affected. According to me social networks can either damage relationships or make them feel more real than they actually are.</p>
+                <p>Let's take Facebook as an illustration. If you count your &quot;friends&quot;, you will be quite surprised about the number you reach. Some questions may be raised after doing this: are they all really my friends? would I invite them to my birthday (personally, the result was 53 people out of 181 contacts), would I talk to them on a daily basis/if I met them in the street/if there wasn't that particular common friend? I can therefore say that a lot of relationships are way more than they actually are thanks to, or because of, social networks.</p>
+                <p>In terms of damaging relationships, social networks can be of advantage to two sorts of people; sneaky ones and inferiority complex-sufferers. For the former, let's say that privacy is not the strong point of that kind of media. You can see everything people allow you to see and you can even know when someone ignores you (thanks to the wicked &quot;seen&quot; indactor). For the latter, you only have to listen to the news to see the number of youngsters that commit suicides after being bullied on social networks. Before bullying was the matter of school: children intimidating others and so on. Nowadays, pupils take this back at home when school is over. The only place where they felt safe is now invaded by their everyday problem, which leads, inevitably, to drastic results.</p>
+                <p>I guess social networks are not the best thing that happened in our era. However they offer the advantage of being fast (e.g. to reach a &quot;friend&quot;) and convenient (e.g. to share pictures).</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

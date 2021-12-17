@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="53" role="participant" sex="M">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Imagine your life in 10 years time. What will it look like?</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>In 10 years, I will be young pensioner. I will have 64 years.</p>
+                <p>First, I hope my children to have also children. I will be grandfather then.</p>
+                <p>Second, I will travel with my wife to discover center of Africa. We shoud like to visit Rwanda en Tanzania to see the gorillas en de bigs five.</p>
+                <p>I always very interested to visit a lot of differents peoples with other cultures</p>
+                <p>After this, I shoud like to gardening to have vegetables et beautifull flowers. I shoud like also to give a part of my time to help other persons with difficulty in her life.</p>
+                <p>Finally, this is how I see my life in 10 years.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

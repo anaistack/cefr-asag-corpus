@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="66" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>In my point of view, it 's very more important to have an enjoyable job, a job which you feel beter with.</p>
+                <p>Every morning, when you wake-up, you know that you will be usefull . It is easier to be blossomed in a job that fit you.</p>
+                <p>Indeed, it is important to make money too, But, generaly, when you are satisfied with your work, you are with your wage; Your satisfaction can make your relatives happy,. Your health will surely  be improved.; and for your mental, it is well known that we must keep keen . Some people are going to tell you the contrary, but everybody knows that money doesn't make happyness, but A good job gives us health..</p>
+                <p>However, I think that money and an enjoyable job must be balanced: because if you eventualy suffer from a lack of money, it will be more diffucult to keep happyness at home and overall, to give your family a good education.</p>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

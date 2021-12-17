@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hi girls!</p>
+                <p>I'm so excited and I want to share that with you!</p>
+                <p>Today, I get a special letter in my letterbox...</p>
+                <p>Carla Bruni invits me at the fashion week in Marly-Gomont!</p>
+                <p>I'm so happy because, first, she's the president's wife and then, I love cows.</p>
+                <p>There will be a lot of celebrities like Nikos Aliagas, Patrick Juvet and so much enough. I'd like to meet Ophélie Winter because I love her actress' game and her style. Last spring she wore the pink trouser with glitters and she made it the new fashion of the year, remember!</p>
+                <p>The second day, I've been invited to a karaoke with my favourite boy... Pascal Obispo! I hope that he fall in love with me, hihi!</p>
+                <p>I'll tell you in details when I come back home! I swear!</p>
+                <p>Big kisses and thanks a lot to follow my blog!</p>
+                <p>Charlotte</p>
+            </div>
+        </body>
+    </text>
+</TEI>

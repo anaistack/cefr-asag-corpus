@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="77" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Describe your family.</p>
+                <note type="word-limit">(at least 30 words)</note>
+                <label type="level">
+                    <span>A1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I'm seventy seven,years old. I've got a big family withe five boys, and now six granddaughters et six grandsons. My husband is dead since nine years.  I live alone, but I see a lot my childrens et grandchildrens. I have too a little black dog, I'm a atist painter et I'm studuing chinese writer.  I'm learning english, because I would like go to Australia visited my brother's family. I have a large part of my family in Austrlia, because I live in Verviers. A long time ago, this city was the capitl of the wool.Ant the first businessman, mine grant mother's brother, went to Sidney in 1918. My brother found a entreprise there, Care Glass, do you now? And geft to the name at a belgium's friend. Y 'll go there if I've a good comprehension in english langage.  Because, I've not very a gift for the stranger langage. I hope so taht's right. Thank's for this exercise.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>A2</span>
+                    <note type="comment">A1 errors, A2 structures.</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>A2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

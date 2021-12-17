@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="es"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It seems to be rather obvious that social networks have become a key aspect of today's society, specially among millenials. Teenagers all over the world have started sharing their personal live's on these internet spaces at a suprisingly rapid pace, something that has proven itself to be a dramatic change on the way they interact with each other.</p>
+                <p/>
+                <p>However, what could this possibly imply? An increasing attachment to electronic devices and the need to instantly show your internet network the latest news could result in fewer real life interactions with the people around them. Relationships are all of a sudden no longer based on trust or mutual interests, but rather on who's got the most &quot;online friends&quot; or &quot;followers&quot;; It is all about demonstrating how good your life is in order to make other people envy you or be miserable, since they feel they could never have the same amazing experiences.</p>
+                <p/>
+                <p>Despite these worrying aspects, social networks are also a way of giving social introverts a way to reach out to people, proving themselves as useful tools, not only for them but also for people who would have never met otherwise.</p>
+                <p/>
+                <p>Overall, social networks have got both good and bad qualities, it all comes down to the use that it's made of them.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment">para 1 B2 errors, paras 2 and 3 C2, para 4 C1. Logic C2</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

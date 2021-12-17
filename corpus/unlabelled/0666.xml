@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I think that social network can help building bridges between us and our friends, expecially if they live abroad. We can have news from them, know what they are doing and so on.</p>
+                <p>But we must be aware of the fact that meeting face to face is often the best way to communicate, especially if we want to be understood avoiding possible misunderstandings. In facts, when we communicate in writing we cannot see the facial expressions and ear the emotions in the voice of our friend and the message looses part of its power and its signification.</p>
+                <p>Moreover, if we only speak to our friends through social networks and never make efforts in order to meet them, our friendship becomes less strong. They will feel like you are not really there for them and that the relationship is not so important.</p>
+                <p>In conclusion, social networks don't better our friendships if we only speak to our friends through them and never meet.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

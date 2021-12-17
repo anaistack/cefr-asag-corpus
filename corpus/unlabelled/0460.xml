@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="37" role="participant" sex="M">
+                    <education type="lower-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Imagine your life in 10 years time. What will it look like?</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>In ten years, my children will be all adulte and i will have more free time. I will hope to speak very well English langage. I imagine that i will must to learn a lot of. I would like to live in England or in Canada for to improve my stress. I will love to visite the wonderfull landscapes in Canada.</p>
+                <p>In ten years, i will have to buy my big house with a lovely garden. There will be a big living home, a modern kitchen, five bedrooms, tree bathroom and a long terrasse with a heatead swimming pool inside. Maybe, i will see a good sunset erery day if my house is near the beach.</p>
+                <p>In ten years, i will be a manager in my company. I will work hard fot that. My company will be leader in pieces of cars (ABS). It will grow in many country in the world.</p>
+                <p>In ten years, i will travel once every month in the country. I will visit the monuments, museums, big bridges and i will discover each culture.</p>
+                <p>Finaly, i will be very happy in ten years.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The issue of environment</p>
+                <p/>
+                <p>Currently, the environment is one of the biggest challenge in our society. Few consequences of human activites are affected the heatlh of the planet. With issue of global warming, there are some solutions we can bring.</p>
+                <p/>
+                <p>Firslty, humans need to change thier mentality about the environment. We have to be more closer of nature. It is mean, respect nature, environmental friendly. Indeed, the polution by humain beings is relevant issue. For instance, if person avoid to use their car very frequently it would be better for the atmosphere.</p>
+                <p/>
+                <p>Secondly, the industries is one of actors which could contribute to resolve of this issue. We are living in consumption society and the companies are main actors. Their supply chains or productions need to be improve for respect the environment. For instance, the companies need to share with others industries the innovation in sustainable ressources or practices.</p>
+                <p/>
+                <p>Thirdly, there is a straighforward solution against capitalism. The capitalism and the economy in worldwide seems to be unefficient. This situation are caused many problems. Maybe, we need to change the entire mentality. It is mean, think about other way of living. For instance, this solution would mean stop mechanism of capitalism and the current economy.</p>
+                <p/>
+                <p>To conclude,currently global warning is relevant issue and the worldwide is worry about it. This is emergency, the last solution is most relevant for resolve the problem.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment">B2 logic, A2 syntax errors. B1 tense use, B2 vocab</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

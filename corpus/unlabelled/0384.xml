@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I definitly think that eating a balanced diet is important to have a healthy life. Nevertheless there is no beter factor, it is a mix of different things.</p>
+                <p>Firstly having a balanced diet gives to your body all the nutrients it need. There is therefore less chances to have a deficiency in nutrients and it prevents from disease. Your body needs those nutrients to enable it to defend himself against virus. It is not because you eat healty food that you eat food you don't like. You can combine healty food and good food.</p>
+                <p>Secondly i thing that regularly exercice strenghtens not only our body but also our mind. It give us the opportunity to set objectives and reach them. It learn determination and not giving up when you come into the first difficulty.</p>
+                <p>Determination is a skill you have to develop if you want to have a good career. You don't become the big boss easily, you have to work hard to reach your goals.</p>
+                <p>Finaly you should allow yourself some cheat meals such as french fries, crisps and meat with sauce at least once a week. This threat should be during the week-end. It is a kind of reward.</p>
+                <p>As a conclusion i would say that a balance diet should go with exercices and cheat meals to allow you a few pleasure during the week.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It is probably true to say that the internet, particularly social networks, has a huge impact on society.</p>
+                <p>Indeed, social networks allow to people to meet new people around the world. Thanks to system, people may create more easily events and meet people who have same interests.</p>
+                <p>Moreover, social networks allow to shy people to speak with other person without being stressed. For instance, Facebook bring people close together and population can extend their relations.</p>
+                <p>However, there is a real tendancy to believe that teenagers spend more and more time behind their smartphones and chat with their friends. Consequently, I think that social networks can damage relationships between members of society. Real life is not to remain behind a screen and chatting with people but really see friends and spending time with them.</p>
+                <p>To sum up, I really tend to think that social networks has a impact on relationships. I agree that social networks allows to people to keep contact with people who are living abroad but we should stop remain behind our screen and benefit of the life by spending time  with our close friends and relations.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

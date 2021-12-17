@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="25" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Social networks such as Facebook can have postive impacts as well as negative impacts on relationships.</p>
+                <p/>
+                <p>On the one hand, Facebook can be very helpful to look for friends you've lost sight of. It's always a warm feeling when you find out they did great in life. Also, you can share happy or sad moments of your life and friends can react to it. Another great thing about Facebook is that you can join groups about specific subjects like a singer you love, your hobby or your favorite football team, and meet new people who have the same center of interest as you. I'd like to add that, having many friends living in Paris, I was so relieved, thanks to Facebook app, to know that all of them were safe after the terrorist attacks on 13 November.</p>
+                <p/>
+                <p>On the other hand, Facebook is very intrusive in your private life as it knows everything you watch, you do and so on. Also, everything you post on Facebook become Facebook's property which is, in my opinion, definitely abnormal. For some specific public, Facebook can be particularly harmful. For exemple, teens can be bullied online which may sometimes lead to suicide. Also, teenagers are not always aware of the danger of publishing pictures or accepting anyone as a friend. Who knows if this person is a perv! In general, you need to be very careful about what you post and whom they post it to, especially when it concerns you professional or your love life. You don't want your girlfriend to know you cheated on her with Facebook, or your boss to find out you lied about being sick as hell while you were in fact sunbathing in the Bahamas!</p>
+                <p/>
+                <p>To conclude, I think social networks like Facebook are double-edged swords. People need to be very careful about what they post and whom they post it to. Parents must control their kids' use of social network to be sure they're safe. Despite these inconveniences, social networks are wonderful to keep in touch with friends or to discover new inspiring and loving people!</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

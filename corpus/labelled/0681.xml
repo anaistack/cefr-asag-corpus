@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="25" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I think that social networks are a usefull and powerfull tool from our century. They kind of change the way that people communicate with each other. Sometimes for the best but sometimes, unfortunately, for the worst.</p>
+                <p/>
+                <p>Nowadays there's nothing easier than staying in touch with people thanks to social networks. Just a few clicks and a little typing and you can say hello to your friends and make them remember that you don't forget them (even if they live in another country and you can't see them very often). You could also text them but social networks are free and now, seriously, who doens't have a smartphone ? With social networks you can also find back people you were with in high school and see what's going on with their lives. It's easy, cheap and it doesn't take a lot of time. Because, everybody knows that the lack of time is a commmon syndrom from our society...</p>
+                <p/>
+                <p>Even if social networks can improve relationships and make them last, they unfortunately also have the power to destroy them. How ? Words. When you're hidden behind a screen, it's easier to say things that you would never say in real life. People sometimes forget that they're actually talking to other real people because they don't see their face and their reactions. Who has never read some mean and disrespectful comments on Facebook ?</p>
+                <p/>
+                <p>In 2016, we can say that social networks take a big place in our daily life. People are ultra connected between them all the time. That's why we can affirm that social networks have a big influence on relationships. I think that that influence's going to change again for the years to come because the actual trend's never going to stop to evolve. Anyway respect is the key to keep nice and positive relationships.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

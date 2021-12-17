@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="43" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Well, that's a very good topic also this one is not so abvious to reply.</p>
+                <p>But on my level, I can tell you that I educate my daughters to use only water they need. For example to stop the water when they brush their teeth or when they use the saop for a shower.</p>
+                <p>On my side, I sort out the paper and carton boxes , all plastics recycling things and the rest of food. By talking about food, I try to avoid waste.</p>
+                <p>As I am the purchaser, I mean the person in my familly who buy goods, I plan in my head all the meals I will prepare for the forthcoming week.</p>
+                <p>By this way, I know excactely what I have to buy. That's avoid compulsif purchasing behaviour which lead to wastes.</p>
+                <p>An other action I try to follow is &quot;no car &quot; during the week-end. It's better for health and for the wallet.</p>
+                <p>I know that I could modify my behaviour to improve the environment by stopping my hollidays with flights ( big pollution way) but I can not having all the qualities ......</p>
+            </div>
+        </body>
+    </text>
+</TEI>

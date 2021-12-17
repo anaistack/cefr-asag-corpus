@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="26" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Job is something you will have to do in your all your life.</p>
+                <p>Imagine what it could be to have to work in a job you don't like, all your life...</p>
+                <p>It sounds not funny at all !</p>
+                <p>What if you have a job you hate to do, but you win a lot of money ?</p>
+                <p>Money is a good thing for a better life, that' true.</p>
+                <p>But then you have to choose : do you want to be depressed to get up everyday, but can buy more things, or do you prefer to have nice days and can be happy even if you own less ?</p>
+                <p>Good paid job is also often a job which asks a lot of time. Money, but no time to use it ?!</p>
+                <p>In my point of view, an enjoyable job is essential in a life.</p>
+                <p>But not all people have this chance. Some of them even don't like their job, and don't win a lot of money...</p>
+                <p>So if you are someone lucky who can choice between money and happiness, don't hesitate.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

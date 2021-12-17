@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="45" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If, one day, I received 1 million euros, for sure, I'll reduce my time of working in Belgium to take of bigger part in my heart's country: India.</p>
+                <p>In this country, I'm feeling so good, so reel, with less control and stress... That country, India, that I met for the first time in 2012, was an unforgettable experience. A kind of 'love at the first sight&quot;.. I 've had the chance to go back in the south in 2014, and again in 2015.... each time, it's the same deep impression to be in my country. Really, it's not the purpose to say tha India is a paradise, because, of course, it is not, not at all... it is, simply, a country where Life means more, when meetin with others is full of sense... I feel quiet when the sounds are high, the smells are strong, the people are everywher... If I had to resume this country in a few words, I'll say: Colours, people, smile and meeting... A wish for next years: to go back, alone or with people feeling the same... and taking part for helping people there, struggling with their each day bread (or rice)  :-)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

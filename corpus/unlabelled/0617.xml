@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The first advice I would give is to never ever throw any garbage in the nature because even one plastic bottle abandoned in the forest is very disgusting and harmful to the environment.</p>
+                <p>The second advice would be to separate the papers from plastic in your bin. That way, trashes can be recycled an get a second life. Otherwise they will be burned and that's going to spread out a very toxic smoke which is hardocre for the environment.</p>
+                <p>And finally, the third and last advice is to try to take a look at the labels of the product you buy to see if they come from your country or if they have been imported from far away. I think that if everybody paid attention to buy local product in priority it would be helpful to the environment because one merchant ship is way more polluting than a lot of cars.</p>
+                <p>And voilà !</p>
+            </div>
+        </body>
+    </text>
+</TEI>

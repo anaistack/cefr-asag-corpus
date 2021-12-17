@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If I had I million euros, I would like to make a big trip all aroud the world. Discovering a lot of countrys and differents types of cultures. Going first on South-Africa, then in the persian golf. Visit India and try to understand the poperty in taht land. I would like to go than in China , to visit the big city , in Thailand and Taiwan, then going to eat sushi's in Japan. Than gooing on South America , especially to Peru , to see MAchu Pichu and the formidable culture of the Inca's. The cheeling on a white beach in the caraibes. Then visit North America , the big city's in Canada and in the USA. After, why not choosing a destination that I particulary like during my long trip alla around the world and make in that place my home?</p>
+                <p>I think have money is fine, but what is still more great is visiting the world!!!!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

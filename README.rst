@@ -65,6 +65,15 @@ All notable changes to this project will be documented in this file.
 The format is based on `Keep a Changelog <https://keepachangelog.com/en/1.0.0/>`__,
 and this project adheres to `Semantic Versioning <https://semver.org/spec/v2.0.0.html>`__.
 
+[1.0.1] - 2017-10-16
+~~~~~~~~~~~~~~~~~~~~
+
+Fixed
+   - All personal details have been anonymized using the following tags:
+     + {name}: first or full names
+     + {initial}: name initials
+     + {number}: phone numbers
+
 [1.0.0] - 2017-09-08
 ~~~~~~~~~~~~~~~~~~~~
 

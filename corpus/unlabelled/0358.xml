@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="24" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If eating a balanced diet is the most important factor for healthy life it would be too easy!</p>
+                <p>First of all it is diffcult to know how to reach a balanced diet ; indeed, most of food products are gentetically modified and grow in artificial conditions.</p>
+                <p>Then to the other hand, what is important or not for a human body is completly linked to the subject and we might not find someting equally important for two different bodies.</p>
+                <p>Hence it appears that a healthy life is depending on the subject needs and habits but also on his genetic background. Thus it might be more complex than a balaned diet.</p>
+                <p>There is no doubt that in order to have a healthy life a balanced diet is needed. However what we would like to highlight here is that there is no recepe for a perfect healthy life ; it is more like a trial and error method and noone knows our body more than ourselfs.</p>
+                <p>The fist step to reach an healthy life, in my opinion, is regularity.</p>
+                <p>In fact the body needs to have a rythm to not be too quickly exhausted.</p>
+                <p>The more the situation is known, the less it requieres energy or changes in our system. That doesn't mean that we need to be like robots but sleeping and eating at a particular schedule can be a good start.</p>
+                <p>Then it is important to feed ourself with fresh food of quality even though it is more complicated to find and it is often (but not always) more expensive than the low quality products that are mainly proposed to us.I find it scray that people are able to understand the consequences of putting bad oil in there precious car but don't realize what they are asking to their body when feeding it with rubbish.</p>
+                <p>It is necessary that our leaders and specially the responsables of the public health take their responsabilities and comdamn firms that are producing and selling unhealthy products. Also a healthy life is a huge challenge and we should help our kids as soon as possible in understanding their needs and explaining them how mechanic and chimic is their body, and even in that ideal situation a healthy life is still a day-to-day fight.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="25" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>To me a healthy lifestyle starts with eating in a healthy, balanced way. It is of utter importance because food is what fuels your body. If you use the wrong fuel for your car, you won't be going very far! It's the first step towards overall well-being and a healthy body. If you eat healthily, you'll feel better and you'll be more inclined to take on physical activities and sports, as you know that your body is ready to make such efforts. But it is also the first step towards overall well-being; as they say, a healthy mind in a healthy body! If you feel good in your body, you'll feel good on a psychological level.</p>
+                <p>And contrarily to popular belief, it is actually quite easy to eat in a healthy but also enjoyable way. Healthy doesn't have to mean boring, tasteless food. You can just go on the internet and find healthy yet tasty alternatives to your everyday dishes. It might also be vegetarian, or even vegan, which is also a good thing since it's a more responsible, eco-friendly way of eating. So just go ahead, you're only one click away from a healthy lifestyle!</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

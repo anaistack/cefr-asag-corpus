@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="24" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hello guys</p>
+                <p>I didn't write for a while but i'm back. I didn't write because I attended an event !</p>
+                <p>What event? I can hear you where i'm!</p>
+                <p>I went to a show. A one man show, Dan Gagnon was in Belgium, it was awesome.</p>
+                <p>And you know what? This guy made his show with nothing. He didn't ask for money and gave an envelope to people and people would put in what they want.</p>
+                <p>If they laugh a lot, they gave a lot of money if they have a lot of money. I'm poor but if i could i'd put 500€ in this envelop because i laugh so much. I was so happy when i got out. I love this guy, you need to see him.</p>
+                <p>And guess what, he's Canadian. Canadian are known to be friendly. And now, i know they can be funny ! :D</p>
+            </div>
+        </body>
+    </text>
+</TEI>

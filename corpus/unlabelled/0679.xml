@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="62" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I understand that social networking is key for young people, this correspond to having &quot;friends&quot; and they feel being important because they receive a lot of &quot;likes&quot;. You will recognize the system of &quot;Facebook&quot;. Other networking methods exist such as Linked'in for business networking. Does this really help in creating or maintaining relationships? It will keep track of people you have worked with, it can be usufull for finding people you lost track of. It's fun of course and it can be useful for recruiters to have access to key information, responsibilities, experience or even resume of people.</p>
+                <p>Now, this social networking is not enough to have relationship. Relationship without meeting people face to face is not true relationship.</p>
+                <p>How can you trust people without meeting them? Some people are even cheeting and are inventing stories about themselves.</p>
+                <p>Internet is important for communication of course, it is easy to write and send notes to a lot of people but this is not enough to keep true relations.</p>
+                <p>This is my opinion.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

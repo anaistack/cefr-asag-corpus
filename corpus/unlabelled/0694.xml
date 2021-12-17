@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="33" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I totally believe that everyone has the right to privacy. If we like a singer it's because we love his songs, if we vote for a president it is to defend our  ideas and our rights. What public people do in their private life only concerns themselves...</p>
+                <p>I think paparzzis should be punished for revealing the private stories of the stars... by harrassing them they can push them to depression or even worst... those people are locked up in their golden prisons. For this reason I would really not appreciate being known. It must be very  stressful to always hide yourself and see pictures of your private life in magasins made for stupid people that finance this junk business.</p>
+                <p>If a politician is disturbed after somebody revealed a part of his private life he will be less efficient in his function because he will always have to justify himslef to the press.... according to me it there is more and more junk information that we don't need to know instead of telling us the truth about real matters.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The environment needs to be saved and here are some advices.</p>
+                <p>First of all, the most efficient actions would probabelly be about households' activities. Therefore the government has to give incentives to households in order to save the environment. For instance, offering trashes. Futhermore giving a tax return if you buy an environment friendly thing like a car which saves oil.</p>
+                <p>Segondly it is at school that we have to rise the conscious of students; it is a necessity to save the plane, we should organize class that rise the conscious about environment issues and solutions as well, such as green energies instead of fossil fuels.</p>
+                <p>As a conclusion I would say that here are some basics solutions that would help to save our planet. If we all think about an action that could be helpfull to save our planet, it is sure that we will all become &quot;environment friendly&quot;.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

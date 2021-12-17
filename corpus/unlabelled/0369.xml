@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>For century, we have been caliming our right to privacy. What conclusions must be drawns when it comes to people who live in the public eyes</p>
+                <p>On the one hand, in respect of human rights, everybody has a right to privacy as it has been stated in many legal texts. This include of course the right of privacy even for those people.</p>
+                <p>On the other hand, in order to meet the requirements of their responsabilties, public personnailities have to provide as much transparency as possible to prove their willingness to work for public interest.</p>
+                <p>Eventually, the trade-off between these two arguments can be easily observed. Hence, everytime we come across a situation where privacy in public functions is questioned, in each one of these requirements must be balanced by the other one. Eventually, a line must be drawn between their private life where privacy is the queen and public offices where their is this trade-off.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

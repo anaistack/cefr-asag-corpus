@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="48" role="participant" sex="M">
+                    <education type="graduate-doctorate"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Social networks are of common use to day. They allow us to find information about people we will meet, to recover a lost email or address of a classmate and to provide information about your own job or hobby. This makes relations between people more efficient than in the past. Social networks like Facebook or LinkedIn will not suppress or reduce the direct contacts between people as they need to meet to get confidence in their relationship. Social networks will improve the quality of the relation between people as they reinforce the knowledge of the profiles of persons. An impact of this could be an increase of the number of people you will know and an indirect effect could be that it is probably more difficult to keep relations with a large amount of contacts and that they could tend to be more superficial.</p>
+                <p>A problem could be the update of the information as platforms for social networks are more and more numerous and that the user has difficulties to remember all sites where she/he appears.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Socials networks have completely changed relationships.</p>
+                <p/>
+                <p>The first big impact we could point out is the fact that people stay connected with eachother. Everyone keep now getting news from all their contacts. They can almost get in touch with anyone even if they don't necesseraly know the person they're taltking or chatting to.</p>
+                <p/>
+                <p>Relationships  are made easier with new members, it is easier to get new contacts because anyone can talk with somebody on diffrent social networks. I we want to have a conversation with someone at a thousand miles away, it is now possible. We can now almost have an immediate respone to our questions simply by using any social network.</p>
+                <p/>
+                <p>Moreover, the developpement of diffrent networks and the advantage of having several networks is that we can sort out our contacts into many social networks like for instance a close friends' network or a colleagues' social network.</p>
+                <p/>
+                <p>Unfortunately, the rising of social networks have not only induced good effects.</p>
+                <p/>
+                <p>Indeed, social networks have made real human contacts less frequent since it is now possible to be connected without being in front of each other. People tend now to chat online instead of go visiting their friends of contacts. They prefer now the internet to communicate rather than have a face to face conversation. As a result, people tend to stay at home and don't go see their good or old friends anymore, they just keep in thouch via social networks. That proves well social networks have benefits but that proves also that people should be carefull not to use them too often.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">some b1 syntax errors</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

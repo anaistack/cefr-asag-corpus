@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="87" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Yes they have. If I were a &quot;star&quot; I would enjoy to meet my fans ,</p>
+                <p>to shake hands, to hear how fond they are of   marvellous myself.</p>
+                <p>Just for a short time though, as I would soon get bored to find reporters</p>
+                <p>paparazzis or  excited girls ( this being questionnable... )  ) in my sleepingroom or elsewhere in my house.</p>
+                <p>The main problem for such people is how to preserve their privacy should they  want to . Public eye implies public appearance . A  so-called star is not much by itself, it needs a manager , a financial advisor a marketing staff, just name them.</p>
+                <p>Main point for me is Morality . How to keep a balanced life among the ones</p>
+                <p>who are making a living thanks to me , how to sort the good ones from the others needs a sharp and permanent  control of their job.</p>
+                <p>To keep in mind  some ,perhaps many , are jealous and wish me the worst</p>
+                <p>could help not  to fall  into what  they want me to.</p>
+                <p>This a rather pessimistic comment so far.</p>
+                <p>Politicians, artists, stars are  used to meet  or ought to learn how to cope with &quot;the publc eye&quot; . They have power they enjoy high incomes and I agree that many are not  &quot;rotten&quot; nor  morons and deserve a  positive mark.</p>
+                <p>I keep my eyes open and go back to my private life that is my wife</p>
+                <p>needs me at once. So ,bye,  she is my star and has an eye on me ...</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">B1 syntax and vocab errors. punctuation and paragraphing are B1. B2 verbs and vocab choice</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="24" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Share a memory of a holiday. Where was it, who went, what happened?</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Two years ago, I went in Italy with my parents and my grand-parents in July to discover the village of my grand-father in Bergamo. It was the first time that I went in this city and it was really a beautiful trip.  Firstly, the weather was very good. Every day was sunny and the sky was blu. The landshappes were wonderful because of the high mountains and the beautiful lake that passed through the village. Secondly, I have meet the family of my grand-father for the first time. His sisters and brothers and also his nieces. The life there is poor but people live with the necessary, there are simple and they are rich in what they have learnt in their life. Moreover, I have seen the house in which my grand-father was born and has growth. Now, they have built an italian restaurant in this place..the things are changing...herbs are replaced into cement..clams are changed into buildings...the worlds is falling down...  The day after, We went to the cimetery to pray for the ones that aren't there yet. The last day, we visted the center of Bergamo. In the old part of the city, there are a lot of old museums, churches, typical bakeries and restaurants. In the modern part of the town, there are especially many shops and bars.  I will always remember this holiday because this trip was rich in emotions, in discoveries and in surprises. The city was amazing and it's important to know where we really come from.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment">Some A2 tense, plural and vocab errors, some B2-C1 vocab, structure, logic.</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment">Good B1 level, good level of vocabulary, but errors in tenses, plurals and singular,.</note>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

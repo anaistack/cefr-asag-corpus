@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="15" role="participant" sex="F">
+                    <education type="primary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Describe your family.</p>
+                <note type="word-limit">(at least 30 words)</note>
+                <label type="level">
+                    <span>A1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hello, I'm {name}. I have a big family: I have two parents, six sisters any brother but I have three brothers-in-law and one niece. My niece, her mother and the sister's husband live in Italy. I have also twenty-nine cousins and fourten uncle and tant</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>A1</span>
+                    <note type="comment">Good family labels but no more than that.</note>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>A1</span>
+                    <note type="comment">A1 or A2; A1 errors but A2 phrases. More text is needed.</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>A1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>A1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

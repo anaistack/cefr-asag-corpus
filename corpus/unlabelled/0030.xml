@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Share a memory of a holiday. Where was it, who went, what happened…?</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Last holiday, i went to Djerba with my girlfriend. It was in an five stars hotel. During this week, we woke up very late and we took breakfast (lot of choice). Afterwards, we went to the swimming pool. We played aqua-gym and watherpolo. We also lay on the beach, with a book, and coktail. At 4 o'clock, we always ate pancake. Every night, there were animation for children and teenager. The animators were very friendly. Everything was perfect!  However, we had two problems: first, i was seek (due to tunisian food). Second problem, there were attack in Tunisia and our company (jetair-fly) cancelled the vol. We had to find an other vol. It was very difficult because because the wifi by the hotel was deficient..</p>
+                <p>Despite those terrible problems, we could leave the country and come home and we have spend very good time in Djerba!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

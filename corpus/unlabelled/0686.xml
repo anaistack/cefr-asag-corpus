@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="26" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Well, basically I think it hasn't a good impact on relationships in general because I can observe many people just spying others, envying them hating them or felling inferior to the other through their computer. I just have the feeling that it makes people even more mental.</p>
+                <p>Also, I did observed many couple being spyed by one of the partner on social media, scared of being cheating or jealous of friends and so, imagined stories and then asking count such &quot;Who is this person ?&quot; &quot;How do you know him  ?&quot;...</p>
+                <p>I also observe many &quot;faking behaviours&quot; of people over-acting in there comments and so, to pretend something, Some of them are so obsessed of their image and the way they look like... Posting qgqin qnd qgqin picture of them or of their friends to proof something to the other. In the other hand, other are complaining, gossip, laugh of them, hate them, some like it....</p>
+                <p>And other behaviour, is the &quot;Jealous freak control Girl&quot;, I only notice girl doing this, they want to make sure everything knows they are in couple because they fear their boys will go to see someone else, so they pint their territory like a dog on the Facebook wall of the loved one. In fact, they just don't trust at all the boy pretending they love him so much, they just want to possessed him.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

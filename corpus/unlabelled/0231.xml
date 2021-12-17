@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="18" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The first question is: How can i get 1 million euros? Dealing drugs? Get a offshore account? Mmmh maybe get married with an old rich wife? But anyway.. That's not the point! If i had one million euros, i will be first really really happy! But attention! I've to keep my mind cold! I must do a goed use of this money! When you beome rich, the next step is getting richer... So i think that i will buy a lot of sure actions in Wall street and make sure that they don't increase... Next step, i must engage an accountant to be sure that i won't spend my money in one day. So i would entoure myself with professionals, and make my fortune grown. and after that when i will be sure that i don't have to work for the rest of my life, i would give a lot of money to my parents and my brothers (before i must be perfectly sure that that they will do a good use of this money too). i would give a lot of money to a lot to charity. And at the end, buying a lot of useless to have the impress that my new life is better than the last.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

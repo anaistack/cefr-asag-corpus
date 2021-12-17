@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="53" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It should be but it can't be .why?</p>
+                <p>Studying abroad is a serious advantage,you improve languages and/or other subjects, you discover other ways of living and being, doing so you enlarge your own personnality, abilities, and knowledges.</p>
+                <p>This would be desirable for everybody.</p>
+                <p>But everyone is not able to live such an experiment ; some can't afford the cost of living abroad, health or psychological problems can stop others from travelling . And we must admit that some people are unable to cope with another language and that all jobs don't require languages use.</p>
+                <p>So to be practical, studying abroad should be compulsory for some jobs : interpreters,diplomats...,highly necessary for a most people :engineers,scientists,secretaries but not compulsory when it is not needed</p>
+            </div>
+        </body>
+    </text>
+</TEI>

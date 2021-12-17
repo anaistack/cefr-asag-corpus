@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="18" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If I had 1 million euros, first, I would spend a few weeks to realise it and I would wait full time to be enough ready to do whatever with it. Wait to be a the right road of my life. Certainely, I wouldn't tell it my friends, my family maybe.</p>
+                <p>Majority of poeple would say, yeah I'll go on holidays at the paradise with beautiful sun, beach, ocean, ... You imagine that! The men would buy a crazy car, girls would go shopping days  and days.</p>
+                <p>No no, you know, it's not for me. So many poeple in the world stay without water or food. I grew in a certain comfort, as everyone and it's true than you'll actually do everything to keep it in your life. The problem is that haven't any limit. I might not live in an extreme comfort knowing the rest of the world can't live with the minimum.</p>
+                <p>It's a problem for long time and the solutions are not so simple. However, I advocate that it would be very better if people like me, you, us with enought or too much comfort  would share more with the other.</p>
+                <p>This problem is so intricate, I have actually nothing solution but, with so many money, I would thought until I find out a way not-too-bad to remiade at this. Every people with this money might do beautiful actions for the world and the unacceptable differences.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="47" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If we speak about the Earth environment, and thus, global Earth bad conditions, maybee the first thing to do, internationnaly, from each human to each company (from the smalest to the biggest) is to reduce what we consume.</p>
+                <p>Then, reducing waste would follow directly. That is a imminent necessity, oceans are suffocating.</p>
+                <p>Improving the recycling of every kind of waste (already produced) would be all benefit, for the Nature and also would provide new kind of employment, and at the current state of the world economy, that could also help...</p>
+                <p/>
+                <p>Globaly, improve the educationnal system, creating them where they do not exist, where they have disapeared and improve those that need it.</p>
+                <p>We have to realize that our ressources aren't unlimited! We have to learn how to protect what's left, mainly because it's too late for a big percentage of our ressources and our environment. We already lost so many animal, vegetal spicies, what's left won't last forever, it's getting more than urgent!</p>
+                <p/>
+                <p>If you speak of any other kind of environment (work environment, IT landscape), could you be more pecise, in order to answer correctly to your question ;-))</p>
+                <p/>
+                <p>Hoping having been helpful to science,</p>
+                <p>yours sincerely</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">b2 structures, b1 vocab and punctuation</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

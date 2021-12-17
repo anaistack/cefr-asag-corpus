@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="42" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I think that with all those social networks, relationships are more difficult, less private.  Many people tend to show too much privacy on the internet.</p>
+                <p>I think it makes us more vulnerable, and sensitive to potential attacks from other users.</p>
+                <p>You may think you have a lot of friends because you have 200 &quot;friends&quot; on Facebook.  But how many of them are real friends ?  How many of them do you really meet in the &quot;real life &quot; ?  How many of them would really help you right away if you needed help ?</p>
+                <p>I regret that many relationships through social networks are actually very superficial, and not honest or sincere.</p>
+                <p>I must admit that I am very happy not to be a teenager anymore right now !</p>
+                <p>Social networks have removed me from many of my friends.  We still chat online sometimes, but we do not really take the time to meet in &quot;real life&quot; anymore... It's a shame...</p>
+            </div>
+        </body>
+    </text>
+</TEI>

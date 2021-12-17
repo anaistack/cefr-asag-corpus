@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hi everyone !</p>
+                <p>Yesterday I attended the 20th birthday of my best friend forever, {name}, and that was so cool ! Her mother organized a big surprise party with all her highschool friends, her boyfriend and his sexy boyfriends ahah, and I. That was a huge party with a lot of alcohol ! We were so drunk at only 11pm. {name}, her boyfriend, got naked to have a midnight swimbath, but when he ran to the swimmingpool for diving, he sliped and broke two of his tooth and his right wrist... we were scared when he felt but after all it's pretty funny when we thing about it ! So... what a night ! I thing {name} will remember that night forever 'cause it was such scandalous... but that's what makes good memories of our youngth, isn't it?</p>
+                <p>So, see you soon for new adventures girls, love you,</p>
+                <p>XOXO</p>
+            </div>
+        </body>
+    </text>
+</TEI>

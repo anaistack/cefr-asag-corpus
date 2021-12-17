@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="44" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I never really think about this, but If I had 1 million euros, I will first, give 10 pourcents to an association. I will look on the net to search one structure that help people as the resto du coeur but I will prefered to find one that is less mediatic and that has very difficulties to found money.</p>
+                <p>Then I will spoil me and my family. I will use some of that money to buy a big kitchen to cook as a profesional to offer to my husban that loves to create nice meal. A huge dressing room for my daughter and a shooping credit card of 25000 euros. A pool in a veranda that can be heated in winter and open roof during summer. For my son a little loft.</p>
+                <p>As travel agent I already see a lot of the world but to spoil me, I will organise a wonderful trip in soutn America wich is the continent I never visit.</p>
+                <p>But It will never happen!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

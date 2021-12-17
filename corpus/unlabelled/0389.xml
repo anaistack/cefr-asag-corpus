@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Some people argue that social networks these days are not social at all. They would say that people juste talk online and don't have time or interest in seeing each other aymore, all because of the popularity of social networks.</p>
+                <p>Although I agree that in some case people get lazy and just stay at home, I sincerely think that social networks are not the only reason to that. I would on the contrary say that they have loads of positive aspects that people don't always take into account.</p>
+                <p>The most obvious advantage of social networks is, of course, the fact that you can stay in contact with old friends that you don't see anymore, or friends that live far away from you. I'm aware that everyone know about this  aspect, but that doesn't mean we shouldn't take it into account. It remains one of the main selling points of socal networks.</p>
+                <p>The second aspect that I want to share, is the fact that social networks can be very usefull for school projects, or even just &quot;the student life&quot;. I'm concentrating here on Facebook, because it is the one that I use most. During my study years, I've found Facebook to be a great plateform to share knowledge. I'm of course refering to course notes that can be shared with an entire auditorium in a matter of seconds. For example, students create groups for each class that they have. After each course some people decide to share their notes with everyone, help each other out and therefore have better notes for the whole group! An other interesting use of facebook can be groups for group projects. You create your group on facebook with your group mates in real life and that makes the whole &quot;organization of the work&quot; a lot easier, every information can be stored online and reachable for every member of the group.</p>
+                <p>My third and last point is  that social networks make the planning of an event really simple, whether it be a party with your firends, a music festival or something more official, like a speach or a reunion. You just have to create an &quot;event&quot;, invite people to it and from know on advertise, wait for people to click on &quot;going&quot;, and tell about it to their friends and so on. A piece of cake!</p>
+                <p>In conclusion I would say that, of course there are some downsides to social networks, but what doesn't have some in this life? In my opinion, social networks, make contacts and planning a lot easier than before. They allow everyone, from simple people to organizations of huge event, to reach a large audience really easilly.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

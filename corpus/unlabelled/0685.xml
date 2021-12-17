@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="51" role="participant" sex="M">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Eating a balanced diet is indeed recommended for a healthy life. This covers what you eat and drink. Doctors use to say that you should eat at least five fruits or vegetables every day. Drinking too much alcohol can be damageable to your body. Men are allowed three alcoholic drinks per day, while women are allowed only two. Whatever the beverage (wine, beer, digestive, ...) the quantity of alcohol is the same in one standard glass, since glasses are smaller for drinks that contain a higher concentration in alcohol. Unfortunately, nothing is black or white: experts also recognize benefits in drinking a reasonable quantity of alcohol. Red wine, for example, is known for its benefits on your blood pressure.</p>
+                <p>It would be too simple if eating a balanced diet was enough to guarantee a healthy life. Practicing sports is also recommended. This starts with simple habits, such as using the stairs insteaf of the lift, or walking a bit instead of systematically using the car.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

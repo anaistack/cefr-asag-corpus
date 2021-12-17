@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="24" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I think that studying abroad is a fantastic opportunity who can help people to find theirselves and learn to love their lifes. Meeting other cultures and people may open the eyes about love, friendship, family and also permit a relativisation of the &quot;everyday problems&quot;.</p>
+                <p>Some people need to get away of their little bubble and discover the world and what are their possibilities. It's always a good idea to change our point of view too and see what's really going on in other countries.</p>
+                <p>You can grow, you can change, you can feel more secure and more confident when you came back.</p>
+                <p>For me, studying abroad is actually the study of life. Even if you go there to study a language of to learn in an university.</p>
+                <p>They are now so much people travelling that you will meet people from the entire world, from China to Canada.</p>
+                <p>This is a really good path to follow but in the other hand it's not a good idea to force people to go studying abroad. They are some people who need their entourage, their friends and family to grow and leaving everyone may be too difficult.</p>
+                <p>I think that this must stay an opportunity that you can take of refuse.</p>
+                <p>We have to respect the decision of everyone and nothing's better than to feel that you can make everything you want with your life.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It is true that having a balanced diet is really important in order to have a healthy life but i would not say that it is the most important one. In my opinion, people who want to pay attention to their health should not only be concerned about their food but also their whole lifestyle. For instance, being active and practice sport every day is as important as eating well. We can also add the time of sleep or the amount of stress in the person's life as major factors. Moreover it should not be forgotten that having a healthy life has a cost, it is not possible for everybody to buy fresh products on a daily basis when our supermarkets are filled with cheap processed food. In addition of this, someone who has a really busy life, a full time job and/or a family do not always have time to prepare a healthy meal and will prefer to order some pizza's. For all these reasons, i think that eating a balanced diet is a good start for a healthy life but is not enough.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

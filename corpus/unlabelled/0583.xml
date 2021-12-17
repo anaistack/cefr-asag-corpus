@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="34" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It certainly depends of the age of the students... to my own experience i think it's clear that travelling abroad and meet native foreign langage's speakers is really positive ! it force you to speak and learn not to fear to make mistakes. but fisrt of all you already need a good basic knowledge of the langage you want to practice abroad... it  will allow you to progress rapidly and to be more selfconfident in front of the others.</p>
+                <p>But this is only theorical because not everyone wants to go abroad and most of the parents neither so i think it should not be compulsory during school but more offered as a possiblitity to those who really want to do it.</p>
+                <p>This possibility already exist with exchange programs as Erasmus or private programs as Best or Rotary and it really works for thoses who can take part of it. Europe should increase the budget allowed to those programs and so increase the amount of people who could share this wonderfull life experience but still even if all students went to study abraod for some time.. the most important is to continue to practice once they get back home ! So the education on school and at home still stay the most powerfull help to learn ! to resume i should say that it should not be compulsory but really offered (also financially) to those who wants to try it !</p>
+            </div>
+        </body>
+    </text>
+</TEI>

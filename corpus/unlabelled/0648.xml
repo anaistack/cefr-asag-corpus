@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="60" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>In my opinion, study abroad sould be highly recommended but not a compulsory part of education.</p>
+                <p>To live abroad is indeed an extraordinary human experience : the student is discovering another way of life, can meet any kind of people and studies the language of the country such as it is really spoken.</p>
+                <p>Thanks of his efforts of adaptation, he is certainly going to gain in maturity and could enrich his curriculum vitae. So he'll increase his chances to find an employment.</p>
+                <p>But such a stay is expensive even if a subsidy is received.Someone can also be afraid to leave alone and can be destabilized by a failure.</p>
+                <p>At all events, this experience seems to me advantageous only after obtaining an university first diploma once consolidated basic knowledge.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

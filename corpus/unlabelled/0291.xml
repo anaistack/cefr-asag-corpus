@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Studying Business Ingeneering, I will be on the Job market in two years and therefore I am asking my self about what kind of job I will look for : An enjoyable one or would I prefer a bigger wage?</p>
+                <p>Of course the best option would be both making money and having an simpathetic job. I truly think that those kinds of jobs exist. There are maybe hard to find but life is long enought to find it.</p>
+                <p>Yet ending university I will have to find a job quickly and therefore it will be hard to directly find my dream job. I think that a that moment I will choose the job that will makes my learned what I like most. At that time the most important thing will be the atmosphere, how I am feeling.</p>
+                <p>Then after having learned new things, after having grew my network, I will have enought knowledge to find and to get the job that feet best to me. There the salary will have a way bigger impact on my choice because I want to enjoy life without having &quot;money-fences&quot;.</p>
+                <p>To conclude both salary and the job feeling are important for me. And therefore my future job will be a great mixt between those 2 sides.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

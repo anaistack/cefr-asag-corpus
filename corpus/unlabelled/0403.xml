@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Nowadays, there is an increasing number of people using social networks like Facebook or Twitter to communicate with others. A lot of researches have been done to identify the impact these site can have on relationships. Indeed, social medias can bring people together but they can also tear them apart.</p>
+                <p>Firstly, social medias give people the opportunity to find and stay in touch with old friends. Indeed, almost everyone has already done some researches to contact people they have not seen for many years.</p>
+                <p>However, social medias don't always have a positive impact on the relationships. In fact, some people prefer to talk with friends via social medias instead of meeting them in real life. This can affect their friendship in the long term because their relationship would turn superficial. Moreover, people using only social media to communicate with others will tend to fall in depression.</p>
+                <p>To conclude, social medias are good opportunities to stay in touch with friends but it is also important to meet people in real life.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

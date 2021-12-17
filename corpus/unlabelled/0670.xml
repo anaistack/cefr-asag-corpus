@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="38" role="participant" sex="M">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Everyone agrees that good food is important for your body and for your health. So how does it come that people seem to eat less and less healthy food?</p>
+                <p>Eating is one of the vital needs you fully have control over. Theoretically, everyone could choose what, when and how to eat. But not everyone has the ability to do so, and this leads to important differences between people who succeed in taking care of their diet, and people who don't want or can't afford good eating because of their rhythm of life, their personal choices or because of financial aspects.</p>
+                <p>Unfortunately, food is not the top priority in an economy-driven world. As a consequence, too many people cannot afford good and healthy meals, and those who can from a financial point of view generally do not have sufficient time to allow to enjoy it. Economical factors also lead food producers to favor profit over quality at all levels of the food production chain.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

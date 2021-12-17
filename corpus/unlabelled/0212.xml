@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the best book you've ever read and why?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The best book I've ever read's name is &quot;Robert des noms propres&quot; from Amelie Nothomb. She is a quite famous writter in France, and maybe in other countries.</p>
+                <p>That book talk about the story of a little girl born is a really hard way. Her name is Plectrude.</p>
+                <p>Her mother killed herself just after the birth.</p>
+                <p>Without any parents, that little girl try to live on the best way she could. She is living on her aunt house, and that is not so bad.</p>
+                <p>She finally find a deep passion for dancing. Balley dancing.</p>
+                <p>Despite all the psychological problems that she had to spend through of when she became a teenager, she finally enter in Opera of Paris. (In &quot;les petits rats de l'opera&quot;). And her passion for dance became unrealistic.</p>
+                <p>This book have really stopped my mind, first because of the writting is really matching with my thinking way, and second because the story is really about hard emotions and incomprehension, and deep passion for dance. The character is a really interested psychological person. At the end of that book she have to stop dancing because she stopped eatting to be on the body norms, but she broke her leg because of that weakness to do not eat. This story will always stay in my mind. And I was a teenager when i read this for the first time. So, that gave it even more sense.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

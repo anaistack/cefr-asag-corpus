@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The use of the social networks can isolate people but it can also bring people closer together.</p>
+                <p>Firstly, the social networks can put people from different countries in touch. In my view, the social networks like Facebook, Twitter, ... have facilitated the communication between people. For example, with Facebook, it is easier to organise meetings or events for a project. However, there are a lot of problems with these social networks : people can become more aggressive with others than in real life. They think that they are more protected behind their computers.</p>
+                <p>Secondly, the use of the social networks is now easier to meet new people and socialize than the mobile phone or others technologies. Clearly, the Internet is less expensive and is quicker than these other technologies. Moreover, in real life, people are a litle bit more shy than behind their screens and, so, it is easier for them to admit feelings and to say private things.</p>
+                <p>Finally, I tend to think that people can become more isolated by using the social networks if they stay all their days and all their nights on their computer.</p>
+                <p>To sum up, I believe that the social networks have bought people close together.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

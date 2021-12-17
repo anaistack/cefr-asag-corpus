@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Two days ago i attended to a football match, this match maybe you have heard about it. This football match was Liverpool from</p>
+                <p>England aigainst Dortmund from Germany in quarter final from europa chamions league.</p>
+                <p>The two teams were very good and it was really exited game beacause all fans from each country were excited for the qualification of their team.</p>
+                <p>As you know in europa champions league every team have to play one match out and there is one more at home. The game i am talking about is the return match which were played at Liverpool. The first game in Germany was 2-2 and for that reason Liverpool has pression of wining the second match.</p>
+                <p/>
+                <p>This was an interessting and excited football game i have never seen in my life. Dortmund scored directly after about 10minutes and Liverpool fans were dispointed. After 40minutes the score was 1-3 and every body thinks that it was finished for Liverpool but at the end Liverpool won 4-5.</p>
+                <p>we hope to see how goes Liverpool at the semi final</p>
+            </div>
+        </body>
+    </text>
+</TEI>

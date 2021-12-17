@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Many factors are thought to influence our health, eating a balanced diet, doing enough sports, sleeping enough, going outside, ... But is one of those really more important than the others ? I believe that there should be a combinatin of all the factors and that eating healthily is not enough.</p>
+                <p>First of all I do believe eating a balanced died is very important for the health. Nowadays, we tend to exagerate the proportions, we eat to much to sugary, to greasy, to salty, ... Our society influences us to eat many things that are not good for us. Obesity is one of the worse consequences of this trend and there are no other solution than eating healthily to avoid this.</p>
+                <p>However, eating healthy is not enough an one needs to exercice and sleep enoug to be in good shape. Doing no exercice is indeedvery harmfull for the body as it loses all its muscles. I am of course not talking about going to the gym everyday but walking a little bit, taking the stares instead of the escalators, ...</p>
+                <p>To sum up I would say that there are many factor influencing ou health and that we schould be carefull with all of them</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Privacy is indeed a right. The reasons why someone may be in the public eye are varied, but they should be the only things we are allowed to know. If you are an actor, a politician, a musician or a writer you already give yourself to the eye of the society. The public is the way they earn their lives, but that doesn't mean they are parasites and therefore that we have the right to penetrate their intimacy. They have agreed to share a bit of themselves but that bit should only be what they feel comfortable about and shouldn't be much more than what they are doing for instance a musician can talk about something personnal to explain a song or a politician can explain why a subject is close to his heart,and that should be it. People who are thirsty of more and more about personnal business of others are broken inside,unsatisfied about their lives and they need to fulfill  their daily routine with drama or they like to feel clever when watching dumb and spoilt people in their own little meaningless lives. Thus, privacy is a right but not every person in the public eye wants it, some people just want to be rich and famous and will show no mercy to their integrity and because of those people, others have to go through unnecessary awkward and though situations to keep their lives out of the eyes. At the time of social media, the lack of privacy touches everyone, we do not know the boundaries of it anymore, so if you already know everything about your best friend's cousin then why is it so wrong to know all about this famous person that knowingly put himself in the public eye?</p>
+                <p>On the other hand, I do think that being famous is also having to be honest and respectful. So if something happens and has a pubic impact on your work, you have to explain a little bit of it. But yet again, details are not needed.</p>
+                <p/>
+                <p>In conclusion, privacy is a right and the lack of it as well, what's mostly important is what the person wants, but it is well known that when giving a little bit, people always want more. Accordingly, people who live in the public eye will always have to put their private life a little bit in the light with them, but they should never have to show more than needed or beyond their comfortable limits</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">Wide range of vocabulary, some errors of spelling, but difficult to follow arguments.</note>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

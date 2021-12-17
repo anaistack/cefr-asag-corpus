@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Nobody can deny that in our modern daily life, social networks play a major role. Their appearance have changed the way we communicate with each other on a lot of aspects. Altough most of the people say that it has a real positive impact on our relationships because we can communicate more easily, I don't really think this way and I will explain why.</p>
+                <p/>
+                <p>First of all, relationships through social media are not real relationships. Some key points of communication are missing, such as eye contact and non-verbal communication in overall. When you say a few sentences on Facebook and Twitter, they don't necessarily have the same meaning as when you pronounce them whith emphasis or emotions. Although I recognise that social media make it easier for us to meet new friends and to gather us, it doesn't replace real relationships.</p>
+                <p/>
+                <p>Furthermore, the person you pretend you are on your profile page is not your true self. On social media, you can filtrate all the informations about you and you can even lie and make up a new life. Consequently, you are never certain of the identity of the person you are speaking with and you can cheat your interlocutor. To sum up, you could have some big surprises when you meet your Facebook friends face to face.</p>
+                <p/>
+                <p>In one sentence, the social networks gather people and expand our friends circle but at the same time it replaces our relationships by fake ones.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment">C1 word choice and structures, many basic syntax errors. B2?</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">Correct, logical first paragraph.  Structures inconsistent in next two paras; some high level vocabulary.</note>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

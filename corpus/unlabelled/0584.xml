@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="26" role="participant" sex="M">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>To begin with, I would say that the planet is quite amazing, full of diverse fauna and flora. And that the only way to preserve it, is to make sure the environment remains as natural as it should be.</p>
+                <p>I think that my advice would be to try and convince people that everyone could do something for the environment, even little things could lead to big changes in the world.</p>
+                <p>We could all make an effort to use renewable energy as often as we can, and to do so, it would be important to teach people how to create such energy, how to use it and how it would help improve the environment for everyone including them. Everyone should be concerned with this problem.</p>
+                <p>The major problem is to change mentality. It is a problem on every level of society, every changes seem to be a big obstacle to go throught whereas sometimes organization is the only thing to settle. We can also give financial support for everyone who makes an effort. For example, the employers could pay the employees who come by foot or bike or even better, give them some day off as a reward.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

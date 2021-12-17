@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Nowadays, the internet is more and more used to socialize. We may admit that the internet is a tool that allows people to communicate easily, but some people have a different point of view. Following their ideas, the internet may isolate users. Let we compare the pros and cons of such technology.</p>
+                <p>On the one hand, it is easily to communicate quickly with someone that we cannot see directly and we have the opportunity to speak with a lot of people at the same time. Moreover, internet gives us the chance to meet people who are far from us. So, we can avoid long travels by using skype (video-conference) of other technologies for example.</p>
+                <p>On the other hand, it breakdown face-to-face communications. By using internet, we are in front of a screen and not in front of a real person. We are isolated from real life.</p>
+                <p>In my opinion, we cannot have a real personal conversation if we are far from the other person. The talk is generally only superficial. However, there are a lot of situations where we cannot speak directly (in the same room).</p>
+                <p>To sum up, it is better to avoid using the internet to communicate when we have the opportunity to meet other people in real-life. However, it is a useful tool when a direct conversation is impossible.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

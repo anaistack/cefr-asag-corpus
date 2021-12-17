@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The influence of social networks on relationships is almost an alleged fact.</p>
+                <p>If we look at the current behaviour of people, it is obvious that social networks play a huge role in our lives.</p>
+                <p>Most of the time people having a smartphone are not able to quit it. Everyone &quot;must&quot; always check if there is some news on Twitter or Facebook. We lead our lives under the impression that social networks are a must. Being on it becomes mandatory. Being out of it becomes weird.</p>
+                <p>In this way, social networks become paradoxical.</p>
+                <p>On one hand, they try to get people closer and on the other hand they put some distance between them.</p>
+                <p>Of course we must admit that people are given the opportunity to keep in touch with friends living abroad thanks to social networks.</p>
+                <p>But if we go deeper, we understand that people are never where they should be. People are not living hic et nunc but far away from here and at an other period of time.</p>
+                <p>Another paradoxical aspect of the social networks is that it gives the impression to offer people more freedom but in fact, it is the contrary.</p>
+                <p>People act as they were slaves, slaves of their profile, of their page.</p>
+                <p>In conclusion I would express my opinion like this : social networks change our lives but not always in a good way. Even if it has the appearance to be a progres, I think it is not.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

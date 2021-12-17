@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>This argumentative aims to answer to following question : how to improve the environment?</p>
+                <p>First of all, the carbon emissions must be reduced by all of the countries. The world goes on the same way. Indeed, the Paris agreement has been concluded in the framework of the COP 21 by 2015. Countries arr committed to reduce the temperature above 2 degrees.</p>
+                <p>Secondly, the direct participation of citizens must be encouraged. Because, the population is not yet aware of the climate change's effects. The best solution is to  implement local projects to increase renewable energies production in place of fossil energies.</p>
+                <p>Thirdly, nature must be installed in cities like green spaces as park. Vegetation must grown up in cities.</p>
+                <p>To conclude there are many ways to improve the environment with a lot of actors. The state, the population and the cities must play a role.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

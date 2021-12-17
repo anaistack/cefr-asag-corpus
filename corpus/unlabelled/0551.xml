@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="23" role="participant" sex="M">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>First of all welcome to my readers.</p>
+                <p>What would i do with one million euros? You don't have lots of solution to this question. You can invest it and then create more money with it or just spend it in every things you ever would.</p>
+                <p>I think i would make a mix of them. One part i would invest into business changes and  buildings. With the other part i wish spend it in computer's pieces in order to upgrade it very well. I wouldn't spit on a beautiful car aswell.</p>
+                <p>Spending time in a ski holiday with friends would also be a very good idea.</p>
+                <p>I would save the left over up in bank because we never know what the life is made of and we all need money every time.</p>
+                <p>I sum up in hopefully answered correctly the question and also hope that there aren't too much mistakes.</p>
+                <p>Best regards.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                        <langKnown level="native" tag="en"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>By definition, a social network is &quot;a network of social interactions and personal relationships&quot;. At first, it sure was an innovative way to facilitate communication and help people keep in touch with friends and family that live on the other side of the world. It was a great idea, however, somehow social media such as Facebook, Instagram, Snapchat and others seem to have had an unwanted effect on our relationships.</p>
+                <p>Nowadays, young people are hooked on their smart phones or computers all day, sharing their lives on the internet behind heir screens instead of sharing it with other people and having real life experiences. Everything goes through texts or pictures and nothing is authentic anymore. Interactions with others have become awkward to the point that people don't even look at each other when they walk by in the street. It seems to me that social networks are not serving their initial purpose anymore.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

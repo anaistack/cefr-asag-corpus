@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>For a long time, people did not pay attention at what they were eating. As a consequence, the life expectancy used to be much lower than it is today. I believe that a balanced and diversified diet can actively contribute to a healthy life. Moreover, failing to do so can deteriorate the health at an increasing rythm. However, it is not the only factor of that importance that support that goal.</p>
+                <p/>
+                <p>First of all, all scientists agree with the fact that only a diversified diet bring all the essential nurtients that our body craves. On the contrary, a diet based on only two or three dishes - as we can think of the one of fast-food lovers - only bring the same nutrients without filling in for the rest of it.</p>
+                <p/>
+                <p>In that spirit, we can easily understand why is a balanced diet good for your health. If your body adequatly have all the nutritional elements that it needs to function perfectly, it will wear down much slower than it would have if it did not and you will feel in better shape.</p>
+                <p/>
+                <p>Nevertheless, we need to amend slightly the previous claim. Indeed, if the diversity and quality of the meals are important for the health, we do not have to loose of sight the fact that quantity is a big factor as well. We do not have to abuse of the good recipe. Instead, we must use it with wise and moderation.</p>
+                <p/>
+                <p>As far as its importance is concerned, I think that they are, unfortunately, more factors to take into account. Indeed, we cannot diminish the importance that sport, smoking habits or even calm and peace of mind for example have on our overall health and on our life expectancy.</p>
+                <p/>
+                <p>To sum it up, I would say that a balanced diet might be the starting point of a healthy life but it must be joined by other habits as well as avoiding the degrading ones such as smoking or drinking.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">C1 logic, text structure B2 vocab errors B2 syntax errors</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It's probably true to say that eating a balanced diet is a key factor for a healthy life.</p>
+                <p>Some people may refer to the well known sentence &quot;Mens sana in corpore sano&quot;. Needless to say, the first step to be healthy is to eat well.</p>
+                <p>However, I am not sure that a balanced diet is the most important goal to have an healthy life.</p>
+                <p/>
+                <p>Firt of all, diet can very fast become a source of stress when people attach to much importance to it.</p>
+                <p>Clearly we all know someone whi is a diet freak.</p>
+                <p/>
+                <p>Secondly, nowadays it is hard to find easily healthy products which are affordable. Indeed, eating good products has a price.</p>
+                <p/>
+                <p>Furthermore, there are many others factors to take into account when we talk about healthy life. I tend to think that sport contributes to have a healthy life as much as a balanced diet.</p>
+                <p>I do not mean by this that sport is the most important factor but it sure is essential to be in good shape.</p>
+                <p/>
+                <p>Meanwhile, I am convinced that people who care about eating variate and healthy are more enclined to have a healthy life. Studies have shown that they are often less tired, more motivated, more concentrated and better looking.</p>
+                <p/>
+                <p>While I accept that eating a balanced diet is very important I feel that there are a lot of orther factors to take into account.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

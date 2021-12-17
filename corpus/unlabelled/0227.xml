@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the best book you've ever read and why?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The best book i've ever read is Dracula writen by Bram Stoker.</p>
+                <p>This book, is for me, the beginning of the vampire style, the horror/fantaisy one. The support of all vampire style with the real Count Dracula. This story is, today as well, use as background for some books, movies and son one. proof that this book is special.</p>
+                <p>In my opinion, it s very well writen, catching , the characters are touching, with their own stories, values. Even if the book is old, with some progress of science that won t make possible some part of the book ( like when they do a transfusion withouth compare the blood groups ... ) , it s still catchy and possible to read. Some old book are boring , values are too much  differents, or just the story can be known before the end.</p>
+                <p>Here , impossible, it catchs our attention until the last chapter, the last line.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

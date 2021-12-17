@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>First, I would like to give a part to every person I love. I mean that I will give money to my parents who deserve it because they have worked their hole life to give me the chance to success, then I'll give to my little sister who's very important to my, then, to my family.</p>
+                <p>Secondly, I'll travel a lot everywhere in the world with my boyfriend. I have always dreamed to go in the United States, specially in New York. But, I also want to go to an unkown countrie where I could have some peace with the man I love. Next, I'll buy my dreamhouse with a wonderfull view of the ocean. This is an example of course, I also could have another view.</p>
+                <p>Thirthly, I'll take my best friends for a weekend between girls and I'll be generous with them because they don't have my luck. I'll offer them clothes, shoes, averything they want just because I appreciate them and because they akways be nice with me.</p>
+                <p>At last, I'll give a part of the money to an association wich contribute to do a better world. For example, to an association with the aim to help the children in the need, or with the aim to give foods or furnitures in Africa.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

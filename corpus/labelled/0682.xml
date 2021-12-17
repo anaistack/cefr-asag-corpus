@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="36" role="participant" sex="F">
+                    <education type="graduate-doctorate"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="es"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Each day we can hear stronger the sentence &quot;We are what we eat&quot;. We keep on seeing on the news how in developed countries there are higher percentages of obese children. Usually, we can see those kids eating a hamburger-fries-soda menu of any well-know food chain. Is it what we want for our present and future?</p>
+                <p>As I can see it, I agree completely with the statement proposed: eating a balanced diet is the most important factor for a healthy life. It doesn't mean that it is not allowed to eat a menu as the above described, but not everyday nor everyweek!</p>
+                <p>When we eat a balanced diet we give our organism all the vitamins, antioxidants, essential oils, ions,... that it needs without necessity of supplementary pills to improve our intake. We will have all the energy needed as long as we have proteins, fat, carbohydrates and vegetables everyday. We will feel full of power and ready to deal with whichever our aims are!</p>
+                <p>Unfortunately, some people is afraid of eating fat and/or carbohydrates as part of their diet because they think they will put on weight. It is necessary for our organism to get what it needs in the simplest way and avoid it unnecessary efforts to get it. As a result, our body will only get undesirable secondary products that could even end poissoning it.</p>
+                <p>So, as long as we fancy a balanced diet and combine it with some exercise, we will be ready for the healthiest way of life.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

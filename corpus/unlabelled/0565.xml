@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="49" role="participant" sex="F">
+                    <education type="graduate-doctorate"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It isn't easy to answer.  I would like to improve the quality of my life.  I wouldn't give up my job but I could reduce the working rythm. I often work fourteen hours per day without stopping the weekend. I haven't usually take a holiday.  It's too much!  If I had 1 million euros, I would travel round the world. I would often go to the restaurant with my family or with my friends.  I would regularly go to the thermal baths.  I would participate in different kinds of English trainings in private institutes in Belgium and in English countries because I would like to become more fluent.  I would sustain some human and social projects that could also aim a long term development as showed in the movie called 'Demain'.  There are the first idea's I think of doing.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

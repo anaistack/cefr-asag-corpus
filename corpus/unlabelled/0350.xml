@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It is probably true to say that you could have a more comfortable life if you make more money. People argue that if you have a higher loan, you can plan more travels, have more activities. However, I am not sure that having more money balances the fact that you have a job you don't like.</p>
+                <p>Indeed, a survey demonstrates that people who enjoy their job are happier than workers who make a lot of money but who don't like what they do. If you go deeper through this reflection, you can easily conclude that you can have a confortable life if each time you come back from work you are bored and not in great shape.</p>
+                <p>To conclude, I do thing that it is more important to enjoy your daily life and so to be happy everyday because you can't buy happinness and so to have the money to make great things will only provide you some happy moments against the daily times you will have with a nice work. Now it's up to you to choose what kind of life you want to.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

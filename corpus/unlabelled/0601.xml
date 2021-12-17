@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="32" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="ar_LB"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>absolutely not,because such decision requires a lot of economic and financial funds ,and the main rule of education system is that it must be fair in a way to cover all the portions of the society ,beside that , we have apeople with special needs like handicaps , which is impossible to them to afford the troubles of being away from their families ,furthermore ,we have a lot of married university student and sometimes a single mothers , for those also it will be impossible to carry on  and so many other reasons , personally , with now a day communication technology , any culture could be discovered by few clicks in our pc ,laptop and even mobile , we can communicate and speak with any person at anytime and anywhere within a seconds , we can intoduce ourselves or conquer, any culture we like to know , while sitting on a chair, the world becomes a small village for humanity .......eventhough study abroad offers us a deeper  and clearer understanding of people form different background , it will give us  the real art and experience of dealing with different communities , religions ,habits and traditions ,at the end i would prefer that study abroad will continue as optional choice for everybody ....thank you.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="58" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I should share a big part of this money with my children, helping them to pay their home an offer them nice holidays.</p>
+                <p>I should travel with my husband all over the world and offer the opportunity to my grand childrens to visit New York. I should go back to Ecuador to visit my friend {name} who was a exchange student during one year in our family, ten years ago but I shoud not stop to work because I have a guesthome and I like to welcome people from evrywhere in the world.</p>
+                <p>Because, I like good food, I should go to reputaded restaurants to taste and discover a another way of gastronomy. After thinking to me and my family, I should help people in necessity in my municipality. I also certainely help artists, buying them some art pieces because I like art but never have enough money to buy anything or I know that it's not easy for the artist to live with their own art passion.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

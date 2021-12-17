@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="18" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I would say that compulsory is too strong. If we don't have to get any more proofs of the benefic effects of education abroad, there are some reasons that make me be unsure about how to answer the question.</p>
+                <p>First of all, education abroad costs a lot of money and making it compulsory would oblige the state to find a way to offer it for students who could not pay it otherwise.</p>
+                <p>Secondly, we know education abroad is beneficial if it lasts some time. A week would not be enough. That creates several problems, like for families who would not want to be separated a long time or, again, the question of money.</p>
+                <p>Thirdly, even if we live in a capitalist and multinational world, some people just want to live in the country they were born in, and we should'nt oblige them to move out for some time.</p>
+                <p>Nevertheless, studying abroad brings some advantages.</p>
+                <p>In the first place, people are more open-minded after living in a foreign world, which is always a good thing. Especially in the situation we know today.</p>
+                <p>Moreover, learning a new language offers two benefits : first, it helps  to structurate the way we think, as some languages are totally different from our mother language. Secondly, it is good for people who want to explore the world and its beauty to know other languages.</p>
+                <p>Finally, it helps to get some independacy by learning to live in an other situation than the one whe have always known.</p>
+                <p>For all those reasons, I would say that if the problems making foreign study were solved, it would be a good thing.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

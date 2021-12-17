@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Social networks are certainly gaining an important place in our lives, we are now able to contact our family and friends insanely fast thanks to Facebook ,Twitter allows us to follow people and firms' activities on a daily basis, while Instagram rallies a community of photographs' lovers. Now, how did we react to such big changes over the last decade ?</p>
+                <p/>
+                <p>One undeniable fact is that people are now using these networks to stimulate their social life, some people now prefer to chat on the internet instead of going out and get to know their neighbours a little better.</p>
+                <p/>
+                <p>We now tend to have a closer relationship with our computer or smartphone than we have with our friends. This accounts for a lot of direct and indirect consequences.</p>
+                <p/>
+                <p>Firstly, our body is not quite used to watching a &quot;blue&quot; screen all day, hence the need to put down your tablet or smartphone before going to sleep if you don't want to stay awake for a few more hours and be tired the next day which could affect the relationship with your family or colleagues.</p>
+                <p/>
+                <p>Second, most people would agree that the internet has affected the way we spend our free time. As a matter of fact, while my grandfather walked two miles to the cinema to watch the latest movie with some friends or played tennis on a sunny afternoon, I find it more easy to download the latest hit or surf on the internet all day.</p>
+                <p/>
+                <p>In closing, I would recommend to think about how the internet and the social networks have affected our lives and how we want it to evolve in the next few years. We mustn't forget the importance of human contact for our well-being !</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

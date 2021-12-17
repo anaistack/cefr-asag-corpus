@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="26" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If we speak about friendship, social networks are a good thing to stay up to date about your friend's lifes. When it comes to relationships (man and woman) then it can be destroying if you do open yourself too much online. For example the teenagers nowadays are posting everything they do on social networls and they end up hurt by people constantly judging them. It is also a way to be close to people in a way we may judge inapropriate: we send hearts, kisses, photos, intimacy so easy that we do not make a difference between a boyfriend/girlfriend and close friends.</p>
+                <p>It is the same for adults. If you are jealous and you see your wife or husband making likes or comments on other girls/boys pictures like &quot;amazing, you look pretty&quot;. How destructive can this be?</p>
+                <p>I am married for 2 years and in a relationship for a bit longer than that and we are both using social networks. But we keep the big private things for us (conversations, disputes, private escapes,...) We own our relationship and leave a part of us on social media to keep our families up to date because they do not live in the smae countries as us. So we decided to use social networks as Facebook, Twitter, Whatsapp, Skype... as a way to connect with our families. We know what happens in their life, they know we are fine and we can call and get news anytime we want.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

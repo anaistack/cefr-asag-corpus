@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Nowadays, thanks to the many progresses in the medecine sector, people are far more aware that their health is highly linked with what they eat.</p>
+                <p>First of all, eating a balanced diet protects you from many kinds of disease, such as heart attack or many sort of cancers. Fruits and vegetables are well known for their curative power, and the protection they offer against the aforementionned diseases. Take for instance brocolis : people who eat brocolis at least once a week are likely to have a longer life and are   immuned against some cancers.</p>
+                <p>Moreover, some food, like fish, are said to make people more clever, and more able to think, calculate and work. A person who eats fish regularly will see his skills increase considerably, he will be more able to produce an efficient and reliable work.</p>
+                <p>Finally, people are more enthusiastic and dynamic to practise sport when they are healthy, and to be healthy they need to eat a balanced diet. It is therefore like a vertuous circle, and people will feel more confortable with their body.</p>
+                <p>To conclude, the obvious conclusion to be drawn is that people's health is clearly related with what they eat. It is really important to be cautious with what you eat, as some food have detrimental effects on yourself, whereas others can make you live longer.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">Mistakes with prepositions.  Language not accurate enough for C1. Clear logic and structure.</note>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="54" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Today, if you do not take care of your diet, you get sick.</p>
+                <p>Eating wholesome, fresh and simple food is basicly the best way to preserve your health.</p>
+                <p>The best proof is the incredible number of people taking tablets to control their cholesterol level. Now, it is happening to people before their 40th !</p>
+                <p>There is no secret, it is written on every single box of prepared food in any supermarket : hydrogenated fat, E numbers, salt... And so many other things that we just wonder if they are really edible and necessary.</p>
+                <p>Another problem is the increase of all the allergy : lactose and dairy products, soy, arachid, nuts, eggs, gluten, the list is long.</p>
+                <p>A cow which is living in the moutain produces 20 litres of milk every day. A cow in a kind of factory dedicated to produce as much milk as possible will give 100 litres every day. This cannot be the same milk.</p>
+                <p>You are what you eat.</p>
+                <p>Keeping a good health is a challenge of every day.</p>
+                <p>Wake up a bit earlier and take time to start your day with a fresh fruit. Which means that you must have some in your fridge. Follow the season, be simple.</p>
+                <p>Eat a real breakfast which will feed you untl lunch time.</p>
+                <p>Prepare your own lunch with meat or fish or eggs, some pasta, rice or patatoes and the most important, plenty of vegetables, do not buy food like frozen meal or some of the junk food you can find at every corner of each street, they are all poison for your arteries.</p>
+                <p>In the afternoon, if you like something, why not an apple ? Easy to transport and to keep with you.</p>
+                <p>A light meal like a fresh bowl of soup with a dish of varieted mixed salad it the best meal you can eat for you dinner.</p>
+                <p>If you can take the time to go in a special shop which sells organic food, you will discover the real taste of good food and this will keep you in good health for a long life.</p>
+                <p>For the drink, break donw on alcohol and do not forget that the body needs water. Avoid lemonade and keep a good glass of wine only occasionaly.</p>
+                <p>Do not let industrial food ruin your health !</p>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

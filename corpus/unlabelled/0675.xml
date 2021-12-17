@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>First of all, in my opinion, every human being have a right to privacy. The fact that some people are famous makes it hard, but they still should be treated with respect for their private lives. It is up to us and to them to respect everyone's rights and liberties.</p>
+                <p>Indeed, one example of an artist who decided not to be famous, in order to live &quot;normally&quot;, is Sia. Even if at the beginning of her carrier she was showing her face to the cameras, she is now hiding her face with a mask at every single interview and live show in which she sings. In a former interview, she said that she didn't want to be recognised everywhere or criticized for what she looks like. She just wants to be appreciated for her music.</p>
+                <p>On the other side, some artists weren't able to handle their famous side. Recently, a documentary about Amy Winehouse's life came out, and showed very well how she felt oppressed by the paparazzis. She was litterally stalked by them. However, there is not only one explanation for how she sadly ended, I personally think the fact that she couldn't handle her fame, was a part of her miserability.</p>
+                <p>An other example is the scandal over nude pictures, in which a lot of famous people were involved. Indeed, some hackers decided to get inside the &quot;Cloud&quot; (an application on the Iphone) of famous personalities and post the pictures they found on the internet. Some stars like Jennifer Lawrence had nude pictures on it, from when she had a british boyfriend, while living in America. She said she had those because she wanted to maintain seduction between them rather than he would have cheated on her. She also said that noone is allowed to show and use her intimacy like that and that it should be considered as an abuse.</p>
+                <p>That's why I think nowadays we live in a society in which people can't help but try to go inside the private life of others, and it's not ok. I believe it's a lack of education and we should all behave respectfully. The paparazzis would rather gain money over destoying lives of celebrities and it's a shame.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Studying abroad is a good way to broad our horizons and could therefore be part of education. But it can also be not as good for the students as we think.Therefore, I will explain my arguments in favor of studying abroad.</p>
+                <p>First, international education provides different languages to the students. Indeed, they will be able to convers in English and others languages. It can be also a good oportunity to put in practice their lessons and on a resume, it can be very interesting.</p>
+                <p>Secondly, I would say that study abroad is a perfect oportunity to keep a open mind. In fact, with a international experience, students will have another academic point of vue and listening to other teachers during a short time can be very usefull.</p>
+                <p>Moreover, on a extra-ademic point of view, studying in a other country for a few months, during a exchange program Erasmus for example, can also be benefic, students will make a lot of new friends and they will also be more independent.</p>
+                <p>As a conclusion, even if this program can be difficult and needs a lot of courage, I think that studying abroad needs to be a part of education thanks to all those benefits.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

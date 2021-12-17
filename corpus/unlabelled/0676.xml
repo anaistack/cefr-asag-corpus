@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I'm note sure that a balanced diet is the most important factor for a healthy life. In fact, I don't think that some factors are more important than some others. It's the combination of them that makes it important. For example, just eating more vegetables and less greasy stuff doesn't contribute that much to a healthier life, even though it might a little. But if you are careful of what you eat and you do some sport regularly, then of course it's better than just having a balanced diet.</p>
+                <p>Besides, eating &quot;bad food&quot; can sometimes help having a healthy life. If you keep yourself from eating things that you love, like chocolate or hamburgers, you will be less happy and you well end up having difficulties to keep doing the diet, while if you indulge yourself some sweets from time to time, it will be easier to you to resist the rest of the time.</p>
+                <p>Also, having a healthy life is not just about having a good physical condition, even though it helps. It's also about feeling well in one's mind. What is the point of eating well, doing sports, being thin, etc. if your constantly sad? Doing stuff that you like, seeing people that you love like your friends and family... this kind of things also contribute to a healthy life. As they say: &quot;A healthy mind in a healthy body&quot;.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

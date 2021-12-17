@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Gigantic dress,  black and white costume with colorful tie, happy face, there was many beautiful things last night when the 2016 prom of Philadelphia Psychologist School started.</p>
+                <p>It was seven o'clock and the night had just began. The students came by cars, or even by limo for some bigs names and rich daddy's childrens, they had to walk the red carpet before entering to the party.</p>
+                <p>Inside, it was darkness, only candles were there to set the atmosphere.</p>
+                <p>The bar was already open, beer, wine, mojito, what you wanted, they had it.</p>
+                <p>The music was played by a famous duo of DJ, they spended the half of their budget to have it. The French duo Daft Punk was there and nobody wanted to stay sit at their chair. The music was amazing, the people were dancing like crazy all night long, everybody was screaming the single &quot;One more time&quot; for the third time of the night.</p>
+                <p>Later, the duo ended the night by a romantic song, the slow began and the last kisses of the night were coming.</p>
+                <p>Then, the prom ended, everybody clapping their hands to thanks the french duo. It was the time to go to bed for me, the night was exhausting.</p>
+                <p>One thing is certain, if you missed this party, you screwed your life.</p>
+                <p>An article writed by The Philadelphia Psychology School.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

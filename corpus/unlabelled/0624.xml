@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="47" role="participant" sex="M">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>No, I do not think so because going abroad to study foreign language should be, and mainly for young people, a free decision only due to your own motivation and wish.</p>
+                <p>If you make it mandatory, it should be for everyone and so, it will be very difficult to organize and to implement even for people not learning or interested by an other language than French. A mandatory period in a foreign country , that I suppose to be at least a few weeks or months to be efficient, could be also a psychological problem for some familly.</p>
+                <p>I recognize that studying a foreign language abroad is the best way to learn it but it should be proposed only to motivated and interested students. It should be also done for other kind of study (manual, technical or others) with the possibility to learn directly in a related professional environment as an industry, an hospital ...with the same goal : implementing what you are learning in real and professional conditions.</p>
+                <p>Best regards.</p>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

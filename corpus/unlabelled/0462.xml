@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="27" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Share a memory of a holiday. Where was it, who went, what happened?</p>
+                <note type="word-limit">(at least 60 words)</note>
+                <label type="level">
+                    <span>A2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>With my boyfriend, we like run. He like challenges. In 2014, he proposed me to run all Belgian sea in 3 days. I accepted! The 26 september 2014, we take the train in Mons go to Knokke. wa had backpak with just a few things. We been stress and excited to realise this personnal challenge together. We began run go to De Hann, about 20 km, it was very wind but not rain. It was difficult, after 2 hour, the fist step was completed. For the 2de day, we ran 10 km go to Oostende, the sun was present. We at in a restaurant and we took a nap on the beach. Then, we gone to Middelkerke, the step for this day. It was very hot and we had pain in our legs. In Meddelkerk, we drank one beer, it was delicious! We slept in a hotel and the next morning, we at a big brekfast. The 3e day was the last step, we been motivated but we had pain anywhere on the body. My boyfriend encouraged me to me to succeed. We ran again 20km go to De Panne. At the arrival, our friends and family was present. I wondered why? My boyfriend began speak and explain this challenge... And he asked me to marry!! Today, we are married and very happy, I love him!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

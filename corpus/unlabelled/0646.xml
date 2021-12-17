@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="60" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="de"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>According to my opinion, I think hat it's far more important to have an enjoyable job rather than a job that makes a lot of money because a job represents lots of hours in our life and, if we don't like or enjoy it, we 'll spend hours and hours working in a job that doesn't satisfy our deep aspirations, we soon will  get bored by it and that is sure to induce complications in our life such as misunderstandings with our family, great discussions after work because someone who isn't satisfied at work, tries to compensate after work. There are many opportunities to compensate and trying to find whatever we can't find in our job:</p>
+                <p>Compensating by doing on sports which sems a good solution.</p>
+                <p>Compensating by eating to much food.</p>
+                <p>Compensating by becoming addict to cigarettes, to drugs,to alcohol, to games in casinos. Becoming addict to games on our personal computers, spending more money than one could afford.</p>
+                <p>Some people become addict to medications, painkillers and so on.</p>
+                <p>I think,that for the time being, we are living in a period where everything goes to quick, to far and to complicated (due to the computers) and we have to cope with it but it's really hard to follow...</p>
+                <p>On the other hand, a  job that brings more money but is boring you every moment, gives you a financial independance but that won't last because sooner or later, we'll get bored by it and the same problems may appear like such I described just above.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

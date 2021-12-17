@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>It is probably true to say that people living in the public eye have a extraordinary life. Some people even argue that they are living a dream. However, I am doubtful about the true quality of living of people exposed in public.</p>
+                <p>Of course celebrity might be tempting because it brings attention and opens many locked doors. Nonetheless, being constantly observed by curious and intrusive persons is just the tip of the iceberg. Their whole life is examined and judged by envious people.</p>
+                <p>Who has never dreamed of being a star, a politician that has a huge influence on mass media and who can defend their opinion pubicly? I am persuaded that it is a feeling we have all had at least once in our life. Notwithstanding, we tend to only see the bright side of a public function. Indeed, these people have no right to privacy or quite few: grocery shopping, sightseeing, taking their children to school are basic things celebrities cannot do peacefully.</p>
+                <p>Of course stars make mistakes, but who does not ? The only difference is that their mistakes are judged and analized by pseudo-experts who think they will have a perfectly non reprehensible life. I must say that most of us are hypocritical when we judge notorious people since we often make the same mistake than them.</p>
+                <p>In conclusion, I am truely convinced that people living in the public eye need and should have a right to privacy. I am scared that a lack of private life could have a dramatic outcome like the ones we have known in the past</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">C1 structures, B2 vocab and syntax errors</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

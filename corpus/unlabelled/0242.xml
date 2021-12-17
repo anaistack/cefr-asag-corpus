@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Last night, as you all know since I talk about it for a month, I attended the MET Gala. What an Incredible night !</p>
+                <p>This was the first time I walked the red carpet in compagnies of so much famous actress or actors, people models, people I love, etc ... !!!</p>
+                <p>I talked to so many incredible person ! I will dream about it for a long time ...</p>
+                <p>First when you reach the red carpet, every paparazzi is screaming your name for pictures everywhere, people around you are so well dressed!</p>
+                <p>Then during the night you get to spend time with whom you whish to spend time. there I realized that these people we see on the TV or elswhere, are really nice, open and friendly.</p>
+                <p>I had dinner with many people but I espacially appreciated talking with Emma Watson. She's incredible. I admire her and what she is doing today!</p>
+                <p>It was a night I'll never forget ! We danced, we talked, we laughed, I had such a good time</p>
+                <p>I will post photos really soon guys</p>
+                <p>xxx</p>
+            </div>
+        </body>
+    </text>
+</TEI>

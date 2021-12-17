@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="60" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="de"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Tryiing to avoid carbon energy, using public transport, recycling whatever may be recycled, using local food and season food such as vegetables coming from our country and not using imported food such as exotic fruit and vegetables. Walking by foot as soon as possible and so often we can.</p>
+                <p>Sharing private transport with collegues or neighbours, reducing for more or less- if possible- the inside temperature about 1 or 2 degrees.Driving with less polluating sources of energy (avoiding fuel, preferring electric or hybrid cars) Avoiding whatever requires importation and polluating the atmosphere by airplane transports....</p>
+                <p>Preferring rechargeable batteries to one use batteries.</p>
+                <p>Putting onion and vegetable skins in the compost bin and using the obtained compost to fertilize your vegetable garden.</p>
+                <p>Trying to improve the isolation of your house.</p>
+                <p>Using renewable energy such as photovoltaïc panels on the roof , such as wind energy.</p>
+                <p>Avoiding unnecessary to wrappings for  goods in shops.</p>
+                <p>Avoiding plastic bags, using paper bags or better reusable bags to wrap your food and whatever has to be brought at home.</p>
+                <p>Avoiding to use to much washing powder in our washing machine and so on.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">B1 structures, B2 vocab. no argument, but the question really does not require that.</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

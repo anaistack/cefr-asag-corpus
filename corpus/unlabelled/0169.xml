@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>So much money !!</p>
+                <p>With 1 million euros, I think that I would maybe become a little bit crazy.</p>
+                <p>Seriously, if I had 1 million euros, the firtst thing that I would do would be offering a lot of gifts to my family. Espacially to my parents, my brothers and my little nephew (who is too cute).</p>
+                <p>Then I would certainly do a lot of shopping!! In Paris, in Milan or in Barcelona, it would be better than in Belgium...</p>
+                <p>One of my dream is to travel around the world, to discover a lot of new countries, new populations, new languages and new cultures. It would be preferable to do this travel with a car, it's more typical.</p>
+                <p>Send me 1 million euros PLEASEEE :)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

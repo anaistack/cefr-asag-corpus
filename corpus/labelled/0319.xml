@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>If you are a student, all possibilities are always open. You are young and eager, you can become everything you want... And if don't know what to do with your life... Never mind, you just start it. Make mikstakes, travels and create relationships all around the world. Stability is for after, live your dreams and reach the stars.</p>
+                <p/>
+                <p>This message is idealistic and unreal, we have responsabilities and the need to be sure that we will have  something in the fridge tomorrow and the week after that,... That's stressfull and important for everybody on earth. But what about hapiness ? what about self-confidence and sel-developpementt?  You need to follow your passion and stay strong in every steps of your life, don't worry about future, it will stay there tomorrow. Life is hard, we know that, but live happy life  and reach our ideals are so more difficult. We have to hold on in our daily life and I think the live must reflects our values and interests, what ever the world will say, you are in the center. Don't forget who you are and take time to discorver the deeper part of you.</p>
+                <p/>
+                <p>I'm 20 and I' m anywhere but I'm free and alive, I will go on in this way. Even I absolutly don't know where is the issue. Make money? Ok... Only for feed me and travel, for the minimum and that's all. You need project, love and dreams,... Leave the rest and get happy!</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">B1? a lot of syntax errors, but b2 structures</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">Some good language, but lacks structure so difficult to follow.</note>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Most people think that social networks are just alienating and addictive networks, that are bad for people because it reduces communication and interactions in the real life. However, in my opinion, there are still many benefits behind it.</p>
+                <p/>
+                <p>First of all, social networks promotes organisation. People can talk to an entire group in the same time, they can describe really precisely an event that they are organising, they can update data,... On social networks like Facebook, you can say &quot;I participate&quot; or &quot;I don't&quot; and this make it very easier for the person who organises the event.</p>
+                <p/>
+                <p>Second of all, social networks are really great for creating bonds between people that would never have existed otherwise. To exemplify that, imagine you are part of a football group on Facebook, you know that every member of the group (even the ones that you don't know yet) share your passion. Another example is the fact that people can take contact easily to professionals thanks to LinkedIn.</p>
+                <p/>
+                <p>However, I can't deny that social networks are sometimes dangerous. It might convey information that is not true. Some people might get hurt by what other people say. Some people might develop unhealthy relationships. And a lot of people might talk rubbish because they are hiding behind a screen.</p>
+                <p/>
+                <p>But to conclude, I would say that thanks to social networks, real and sincere relationships can be created, and strenghtenend. It's just the role of each of us to be careful and to stand back on what we hear and read.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment">C2 text structure and vocab, B syntax errors</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>&quot;Money doesn't make you happy&quot;. That's what they say.</p>
+                <p>When you look at my life, you could think I don't care about money. I'm doing History at Uni and everyone is telling me that I will have no money later if I don't find a rich husband.</p>
+                <p>Ok, that's a bit caricatural and it's wrong saying it like that. But, I know I will earn less money with my historian graduate than with a scientist graduate.</p>
+                <p>I can't tell you which one is the best between a job that you love or a job to makemoney.</p>
+                <p>I think, the best thing to do is to choose a job that you want to do and that provides you enough money to survive. But don't choose a job you dislike. I know that when you're very poor, you are all the time thinking &quot;can I buy that?&quot; &quot;Can I go to this expensive country?&quot;. So, I don't want that because it can even impact you relationship with your friends, husband, family.  Worring has never been a good thing.</p>
+                <p>I don't want to have debt neither. So I choose a job that still give me some money but that I enjoy to do.</p>
+                <p>For example, selling books. I love books, I love talking about books I read and discover new ones. So it's not my dreaming job but it's something I would enjoy to do and that can provide me money.</p>
+                <p>When I was young, thinking my parents would all the time being behind me, I tought I could be a painter or writting comics.</p>
+                <p>But then, school, society tell you you can't because you need to be the best one to live doing this kind of job.</p>
+                <p>But I still love art. I realised that it doesn't need to be my job. I can read, drawing, playing music or theater in my free time.</p>
+                <p>So, I will try to find a job that I enjoy to do even if it's not a passion and doing activities that I really love in my free times.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

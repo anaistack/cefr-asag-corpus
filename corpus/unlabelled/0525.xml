@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="28" role="participant" sex="M">
+                    <education type="primary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the best book you've ever read and why?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The best book i ever read was treasure Island from Robert Louis Stevenson.</p>
+                <p>There is now sixteen years ago. It was the first book who gave me pleasure to read. My french teacher forced me to chose a book for a work (the objectif was to read a book and make a text on it to give others want to read it) and i was not really interested in this but, after fews pages, it was a great discovery.</p>
+                <p>First of all, i discovered how a book offers you more possibilities than films to create your own world and characters. No matter how the author could describe things, you can always imagine them as you want.</p>
+                <p>The second point i discovered is the pirate world, The way they live and think.This stylish and highly regulated side but without concessions seduced me.</p>
+                <p>Since this moment, i read a lot and especially books on stories of pirates.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

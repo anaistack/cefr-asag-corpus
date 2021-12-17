@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The problem of the environment's pollution is one of the most common issue that the humanity need to sort out. As a matter of fact, a lot of conventions through the world establish different measures to reduce durably the different kind of emissions and to reduce the waste of the energy.</p>
+                <p>First of all, the main advice I want to give is to adapt our lifestyle in order to decrease the pollution. I think it will be a very difficult to change the mentality of the people but with the lack of ressources and the global warming and we will be forced to do it very soon . Everybody need to rethink their habits and manage to figure out which one consumes a lot and will be not so useful than that. Several habits need to be changed like for instance, not using the big toilet flushing or limiting our time show to 15 minutes maximum.</p>
+                <p>To conclude, we need to be responsible to our environment. Therefor we have to change our lifestyle even if we lose a bit of comfort.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

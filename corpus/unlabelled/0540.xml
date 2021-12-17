@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="68" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Oh yes ! I attend an event ...a sweet event full of live and beauty !</p>
+                <p>Full of sings and nice colours , full of joyce...</p>
+                <p>May be , you imagine that I am preignant or I'll be married or I'll discorver an wild island in the Ocean ? Why not , ok !</p>
+                <p>Do'nt worry , it 's so simple to imagine my event .</p>
+                <p>This event comes back every year  ! My birthday ? Christmas ?</p>
+                <p>Thanksgiving ? Of course not , I am not an american women...</p>
+                <p>I live in Belgium where the weather is so said during the winter !</p>
+                <p>For me , the happyness is the light and the nature ...Trees , fields ,rivers ,hills , animals, plants and flowers.</p>
+                <p>I have no money but I am rich in my heart to enjoy simple things.</p>
+                <p>When I see the first flowers , purple and yellow crocus, and daffodils I kwow that I 'll be outside , I'll be free like a little robin ...Thank you the spring , welcome revival , my favourite gift , my event !</p>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

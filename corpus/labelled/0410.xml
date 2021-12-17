@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Social networks are present for even everybody in our civlization and particulary for people between 14 and 35 year old. Social networks have consequences in different ways and one of the most important way is the relationships. This is what I will speak about.</p>
+                <p/>
+                <p>Firstly, a relationship is something that people live differently. Some people juste like to have very good friends and others like having a huge range of friends. According to me, social networks have an impact for both kind of people and have controversed impacts.</p>
+                <p>It allows people to be all the time connected with their friends even with friends that we can not see everyday! And you can take care of your really good friends everyday.</p>
+                <p/>
+                <p>Moreover, with social networks, contacts are easier and that helps some people to have relationships. In fact, it isn't easy for everybody to make friends and sometimes it's easier to start chatching behind a computer. This is a good impact of social networks but these people don't have to forget to see their friends, to have real activities and not be all the time behind the computer.</p>
+                <p/>
+                <p>However, with social networks, people are all the time connected. The can even never juste make a break at the end of the day and just forget their problems. Problems follows people in their house, in their bed in all their live. I think that this is a big consequence for jonger people. Somethimes things don't happend goodly at school or with their friend and it follows them everywhere.</p>
+                <p/>
+                <p/>
+                <p>To conclude, social networks bring a lot in relationship for people. It allows them to have friends and to be connected. But being continually connected has sometimes bad consequences and can make people unhappy by bringing their problems at home.</p>
+                <p>We absolutly have to be carefully with social networks and to use it in a right and good way that makes us feel good.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">cohesive, use of signposting although modal verbs need work.</note>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

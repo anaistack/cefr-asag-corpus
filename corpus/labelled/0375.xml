@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Nowadays, more and more people tend to think that the internet and social networks are a good way to socialize and meet new people.  However, in my opinion the social networks isolate people who use it.</p>
+                <p/>
+                <p>It is generally accepted that when you use the internet or social networks, you can easily meet people and speak a lot with them.  Nevertheless, I think that is fake.  In front of your computer you can't see the emotion that your friends have on their face.  The better way to socialize and to talk to people is in a bar, your sport club or other activities.  For instance, when you have a hassle with a friend it's better to talk face to face.  Indeed, on your computer you have the time to think what you'll respond.  Face to face you have to react directcly I find it better.</p>
+                <p/>
+                <p>Moreover, I would argue that social networks and the internet can be very dangerous.  Indeed, some people are weakly and other people are stronger in their mind.  The internet is a good way for those stronger people to threaten the weak people who prefer using the internet because they're shy.</p>
+                <p/>
+                <p>However, sometimes the internet can have a positive impact on relationships.  Indeed, that's the easiest way to speak and socialize.  Indeed, you can't always see people.  Then, your smartphone is in your pocket in you can easily talk to a friend who's maybe abroad.</p>
+                <p/>
+                <p>To sum up, I will say that social media can have positive and negative impacts.  we have to be very carefully when we use social media if we want its to have positive impacts.  Internet can be easily misused and some people can be hurted.  However, we have to adapt our way of life in this new world with all that technologies.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>C1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="16" role="participant" sex="F">
+                    <education type="lower-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hello dear friends,</p>
+                <p>This morning I went to the chemistry to buy a pregnancy test because I thought I am pregnant. I didn't say it to my husband and to my parents neither but I sayed it to my best friend, {name}. So I bought this test and I did it this afternoon with my best friend because I didn't want to be alone to do it. I was so frightened the test will be negative but at the same time I was so excited. We waited for this moment for two years! When I did it, I didn't want to watch the result first so {name} did it for me. She didn't say anything for long seconds, and I said to me that it wasn't even the good moment and at the same time I begann to cry she shouted me that the test was positive!</p>
+                <p>I was so happy and to be really sure I decided to go by my doctor. So at about 3pm he examined me and he said me : &quot;Congratulations, you're pregnant!&quot;. You don't know and imagine how I was happy.</p>
+                <p>Now I wait for my husband to tell him the great news and after that I reserved a table for two at the best restaurant ever to celebrate that.</p>
+                <p>So see you for the reaction of my husband, {name}.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

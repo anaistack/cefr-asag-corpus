@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Eating a balanced diet is the most important factor for a healthy life. Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Nowadays, people, especially women, feel very concerned about their weight while the amount of junk food and the obesity are rising. So when someone, for example a teenage girl, decides to start a diet, she'll more than often will be excessive, thinking that the less you eat, the more you loose is the right way to proceed. Then she'll reach a point when she won't handle her diet and go back to all the unhealthy foods she was avoiding, and it's well known that our world is surrounded by cheap horrible food sellers; fast foods like Mc Donald, Burger King and so one or simply supermarkets encouraging to eat chips, biscuits, candies just by their price. What do i mean? You want to buy some healthy food, like Gluten  free cookies or veggies for example, it's way too expansive for the average population, meanwhile the rest is so cheap that it becomes the best alternative. So no one teach to those girls who feel awful in their body how to proceed and what's the key; I really think teaching how to have a balanced diet should be a priority in education, people should learn that the way to feel good is to eat enough and well, but healthy, and stop watching those unrealistic models we have such as actors, Instagram addicts and others. I suffered of that for a long time and there wasn't anyone to tell me i wasn't looking at things the right way. So again, yes it's really important, for the ones who can't afford healthy food (what should be available to everyone) and for the ones who don't accept themselves the way they are, we need to learn what exactly is a balanced diet.</p>
+                <p/>
+                <p>My apologies if I didn't answered the way you were expecting me to.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">possibly C1</note>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment">Structure of text difficult to follow.</note>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

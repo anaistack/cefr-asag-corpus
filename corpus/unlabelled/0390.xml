@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="pt"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do people who live in the public eye have a right to privacy? Explain your point of view.</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The matter is actually quite hard to awnser to. With a bit of background some say that it's possble, others don't, but the matter of fact is that it ain't easy. I think the main problem stands by the definition of what our modern societies consider the public space and the private space. By those definitions we can already make a link between public space and media. Therefore, the media is not only the key but also the main factor that allows the knowledge and the spred of information. The private space is, by the social status of the person (actor, celebrity, etc) confused and by that, I mean that there is a fusion of those two spaces. There is also another factor that is important to take into consideration. The social status of a person, doesn't have to define the person in question. The private life doesn't have to be the part of that person regardeless of his social status that is used for media propaganda. I think that the Ethical and deonthological code of joursalists and papparazzis sould be renewed and take into consideration more and severe penalities if their code is not respected. A person should be respected no matter it's social status, no matter what that person is acused of or what rumors tell about her. That is the main reason why the integrity of a person should be respected. It's beacuse of his right to privacy.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

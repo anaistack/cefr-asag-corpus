@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="29" role="participant" sex="F">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Should study abroad be a compulsory part of education? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>From my point of view and my personnal experience, study abroad should be a compulsory part of education.</p>
+                <p>I went abroad around 18 years old, during 1 month in the USA to improve my english and it was such a great experience: I improved my english, i discovered a new country/culture and i met new peoples from all around the world. Moreover I went there by my self so it's aso a great personnal challenge.</p>
+                <p>Then 2 years later, I made an internship in London for 4 months, amazing experience too.</p>
+                <p>And finally I did an Erasmus semester in London. Thoses 6 months in London were amazing: I was living a dream by living in my favourite city, always doing something et discovering new things everyday and meeting people.</p>
+                <p>Those 3 experiences abroad were my choice, never in highschool/upgrade studies they suggest us to go abroad.</p>
+                <p>But as french, the english courses in collegre, high school are not pushed and I really imporved my english by going abroad.</p>
+                <p>So I think that the school need to propose a time abroad (from 2 weeks to severals months) to let students have this opportunity.</p>
+                <p>Of course we need to care in consideration also the financial part...find a way that help also the one who have less revenue to have this experience, to enjoy it.</p>
+                <p>It was the best experience i eved had, and if one day I have a child, i would like him to have this opportunity!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

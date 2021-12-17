@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="39" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>If you had 1 million euros, what would you do with it?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>1 million euros is a lot of money. First of all, I would put it at the bank  to allow me a little time to  know what to do.</p>
+                <p>My priority would be: paying a nice  house well located with 4 rooms and a car of my dream; the latest Toyota Yaris full option.Ten, I would help financially my family in Africa. For my mother, I would buy her a big house.</p>
+                <p>For my childrens,I would fill thier account in order to prepare thier future.</p>
+                <p>1 million euros is also a blessing, so I wouldn't forget the lest privileges. I would help humanitaries associations by providing money, clothes, food ...</p>
+                <p>If after this, I still have enough money, I would enjoy with my friends by travelling , shopping.</p>
+                <p>What a nice dream!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

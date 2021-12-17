@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="56" role="participant" sex="F">
+                    <education type="undergraduate-bachelor"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+                <listPerson type="examiners">
+                    <person role="examiner" sex="F" xml:id="examiner.3"/>
+                    <person role="examiner" sex="F" xml:id="examiner.2"/>
+                    <person role="examiner" sex="F" xml:id="examiner.1"/>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>Do you think it is more important to have an enjoyable job or to make money? Explain your point of view.</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>I personally think it is more important to have an enjoyable job than to make money.</p>
+                <p/>
+                <p>Of course everybody needs money to live but we don't need to live for money.</p>
+                <p/>
+                <p>On the other hand, if somebody spends the whole day at work, this has to be pleasant and interesting.  The job itself first and also the colleagues.</p>
+                <p/>
+                <p>- Through the job first, you may learn a lot of things, new matters for instance, new ways to work.  By working with foreigners (abroad), it makes you openminded.</p>
+                <p/>
+                <p>Working hard may also bring a lot of stress of course</p>
+                <p/>
+                <p>- Then if you share your time with nice colleagues, this can help you in case the job is less interesting.  You are still happy when you are going to work.</p>
+                <p/>
+                <p>Unfair colleagues cause today of lot of problems (especially psychological ones).</p>
+                <p/>
+                <p>The dream should be to have both nice colleagues and interesting job but I think this aim is very difficult to achieve.</p>
+                <p/>
+                <p>Unfortunately, there are more and more problems at work and the negative points are taking the upper hand.</p>
+                <p/>
+                <p>This was a resume of my opinion concerning this matter.</p>
+            </div>
+            <div type="grading">
+                <label corresp="#examiner.1" subtype="writing" type="level">
+                    <span>B1</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.2" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label corresp="#examiner.3" subtype="writing" type="level">
+                    <span>B2</span>
+                    <note type="comment"/>
+                </label>
+                <label subtype="majority-vote" type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+        </body>
+    </text>
+</TEI>

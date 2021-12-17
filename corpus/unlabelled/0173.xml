@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="19" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the best book you've ever read and why?</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>The best book I have read until now is named Shinka no mi.</p>
+                <p>It's not really a &quot;book&quot; but a &quot;light novel&quot;, it's a story made by a common person and available on the web for free.</p>
+                <p>Why do I think it's the best I have read ?</p>
+                <p>The main character demonstrate a personnality below every human in the start, but after reached some encounter he growed in a manner than no one could have expected and it's the main reason why it's truly enjoyable.</p>
+                <p>The peronnality of the main character is not enough to judge a book, in fact we don't judge a book by his cover,  the writing is well made by the author thus the reading is fluid and fast. The content is well made too, there is no &quot;weird&quot; part in the story that make the reader think &quot;what the fuck ?!&quot; or &quot;But..., it's not what he has talk about before...&quot;.</p>
+                <p>The dialogues between the characters is, sometimes serious and sometimes hilarious, and that make the reader in a very good mood because of these changes.</p>
+                <p>There is more to tell but not enough words to write these things thus I finish here and hope that I make interest grow in you.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

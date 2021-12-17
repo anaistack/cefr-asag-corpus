@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="20" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hi everyone !</p>
+                <p>This last summer I went to the Spa Festival so here my review about my experience there.</p>
+                <p>I've stay there for the five days. And I sleept in a camping, well it was quite an adventure because there were no shower, we had to wash ourselves in the sink.</p>
+                <p>The singers invited were really good, on that topic I have nothing to say, I have enjoy almost every artists.</p>
+                <p>The only issue I had is that the drinks are really expensive ! It was 4 euro for a beer ! Can you imagine ? So my friends and I had to by our drinks in a supermarket.</p>
+                <p>I will conclude by saying that it was a good experience and I think I'm going back this summer.</p>
+                <p>Bye everyone, take care.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

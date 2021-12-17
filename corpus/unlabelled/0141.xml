@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="F">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>You attended an event. Write an article for your blog.</p>
+                <note type="word-limit">(at least 80 words)</note>
+                <label type="level">
+                    <span>B1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Hi everybody!</p>
+                <p>Hope everything's alright?!</p>
+                <p>I can't wait to share you the news ... This is something we can't wait, well ... The blocus!</p>
+                <p>Yes of course! Smile! I have a lot of advice for you, and smiling is the first.</p>
+                <p>I'm sure you already know that, but finals are coming and quickly!</p>
+                <p>This is a difficult time with a lot of stress, everybody's losing his mind during this kind of book's war (I like to call it like that). But this is also the time where you learn a lot! And you learn a lot about yourself too : how you react with stress, how you study, what's your perfect hours to work, how making a planning, a schedule, ... All of those things are very important to know because it would help you for your futur! And when I say that, I think about your work life. Are you the kind of person who can work efficacely when you are stressed or are you the kind of person who can't work at all with stressed ?</p>
+                <p>I'm the kind of person who can work with stress, actually stress boost me! I can't work without stress ... Really, I promise! And this is so difficult to adapt because I have to find the perfect match between good stress and bad stress.</p>
+                <p>This is so hard to find! I'm talking about stress because stress is the thing who run your life during the blocus's time. A lot of bad stress won't help you to have an health life, you wouldn't eat or on the contrary you would eat to much. And eating is so important! Eating healthy of course! You have to eat fruit, vegetables, and don't hesitate to drink!</p>
+                <p>And, the most important, be sportive! You have to do sport, to evacuate all of the stress and to free your mind!</p>
+                <p>I hope you enjoyed to read this article and that it would help you!</p>
+                <p>Have a beautiful day guys!</p>
+                <p>Lots of love.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

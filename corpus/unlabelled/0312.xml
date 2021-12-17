@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="21" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What advice would you give to help improve the environment?</p>
+                <note type="word-limit">(at least 100 words)</note>
+                <label type="level">
+                    <span>B2</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>How to improve the environment ?</p>
+                <p>It seems to me that there are currently many climate problem on Earth. That is why I would give you some advice that cannot immediatly change the environmental issue but it should improve our surrounding.</p>
+                <p>First, there is tendency to believe that a small cigarette butt do not pollute. However, many searchers concluded that it takes 1 year to disintagrate.</p>
+                <p>Second, as it can be seen, western companies move their buildings or their industry to the Third Wolrd. My advice would be to buy local products because it avoids the shift of all the product in our courntry. Moreover, big companies generally do not respect the environment standards and they exploit children like Nike or Gap.</p>
+                <p>To conclude, do not be a foe of your environment. For me, it is easy to throw waste product in a garbage and also to buy local products. That are my advices to improve our environment on a limited scale.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

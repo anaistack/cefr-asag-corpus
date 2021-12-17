@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="28" role="participant" sex="M">
+                    <education type="graduate-master"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="ru"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in an electronic language learning platform</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Generally social networks are like the fire for me. I mean we have to know how to use them in the correct and appropriate way. It is necessary to know that they cannot replace the real relationships, but they can make some part of them much easier.</p>
+                <p>For me social networks are not a problem at all. I can stay in touch with my friends who are living far away. I can see their photos and everything they wanna share with me. At the same time I'm using social networks to arrange the real meetings with my friends. And I have my news feed at the same time which is really very useful.</p>
+                <p>At the same time I'm pretty sure that for some people it is harder to contact with the real world because all their life is going in social networks. And yeah, there's a problem. But I don't know certainly if it is a foal of the social networks. I'm not looking for any excuses here but maybe these people just wouldn't contact with the world at all. I don't know.</p>
+                <p>So there's a conclusion from me. As I said before I think that social networks could be really a great tool, they can be indispensable in some cases, they can give us some great opportunities. But at the same time we have just to use them properly and to add all these possibilities to our life.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>ALTISSIA International s.a.</author>
+                <author>Centre de traitement automatique du langage (CENTAL)</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Centre de traitement automatique du langage (CENTAL)</distributor>
+                <pubPlace>Louvain-la-Neuve</pubPlace>
+                <date>2017</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <person age="22" role="participant" sex="M">
+                    <education type="higher-secondary"/>
+                    <langKnowledge>
+                        <langKnown level="native" tag="fr"/>
+                    </langKnowledge>
+                </person>
+            </particDesc>
+            <settingDesc>
+                <p>collected in a university-level language learning classroom</p>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question">
+                <p>What is the impact of social networks on relationships?</p>
+                <note type="word-limit">(at least 150 words)</note>
+                <label type="level">
+                    <span>C1</span>
+                </label>
+            </div>
+            <div type="answer">
+                <p>Obviously, it may be true to say that social networks is a great way to discuss with people all around the world in a few seconds. However, a lot of people tend to think that we are becoming more isolated. What is the right answer? For my part, I'm clearly convinced it's an amazing way to bring people closer together.</p>
+                <p>Moreover, you can catch up people you don't see anymore. To be more precise I met a friend I hadn't seen for almost 15 years thanks to Facebook!</p>
+                <p>Besides, during the exam period, most students help each other on socials networks. By this, I mean they share summaries, try to resolve previous exams together. Even during the year they create groups on Facebook where they can communicate easily about they lessons, or other activities.</p>
+                <p>Nevertheless, to some extent, teenagers tend to stay behind their computer instead of going out with their friends. Moreover, they feel self-confident and use to say a lot of things they wouldn't say in real life.</p>
+                <p>Clearly, I do believe social networks is maybe the most usedul technology of our generation. It can help people in a lot of ways. However, we have to be careful, this cutting-edge technology has some limits, especially with children. Remember you it does not replace real relationships that people can build up together !</p>
+            </div>
+        </body>
+    </text>
+</TEI>
