@@ -70,6 +70,7 @@ and this project adheres to `Semantic Versioning <https://semver.org/spec/v2.0.0
 
 Fixed
    - All personal details have been anonymized using the following tags:
+   
      + {name}: first or full names
      + {initial}: name initials
      + {number}: phone numbers
